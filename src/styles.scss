@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+
+.pointer {
+    cursor: pointer;
+    font-weight: 500;
+    &:hover {
+        font-weight: bold;
+    }
+}
+
+.rotate {
+    transition: transform 0.4s;
+    &:hover {
+        transform: rotate(360deg);;
+    }
+}
+
+#back {
+    background-color: purple;
+}
+
+.text-poison { color: purple;}

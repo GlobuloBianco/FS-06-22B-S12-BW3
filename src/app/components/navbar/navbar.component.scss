@@ -1,0 +1,49 @@
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+#menu {
+    color: purple;
+    font-size: 40px;
+}
+
+.dropdown-item, .text-purple {
+    color: rgb(73, 1, 73);
+}
+
+.text-purple {
+    padding: 5px 10px;
+    font-size: 18px;
+}
+
+.second {
+    padding-right: 7px;
+    border-left: 2px solid orange;
+}
+
+#logout {
+    background-color: orange;
+    padding: 5px 10px;
+}
+
+.nav-link {
+    color: purple;
+    font-size: 18px;
+}
+
+#app {
+    font-size: 15px;
+}
+
+#scarica, #seguici {
+    margin-left: -10px;
+}
+
+#seguici a {
+    color: purple;
+}
+

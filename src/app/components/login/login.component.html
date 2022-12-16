@@ -1,0 +1,41 @@
+<div class="container bg-light rounded" id="login">
+    <div class="h-100 text-center">
+        <div class="d-flex justify-content-center">
+            <div class="formLogin">
+                <div class="d-flex flex-column formContent">
+                    <div class="d-flex me-4 justify-content-center">
+                        <a class="navbar-brand me-1"><img src="../../../assets/logo.png" alt="logo" width="120px"></a>
+                        <div class="d-flex flex-column justify-content-center">
+                            <h2 class="m-0 text-warning">Giallo</h2>
+                            <h2 class="m-0 text-poison">Zafferano</h2>
+                        </div>
+                    </div>
+                    <h5 class="text-center text-poison fw-bold mt-5 mb-3">Accedi con:</h5>
+                    <div class="container d-flex flex-row justify-content-center my-3">
+                        <button type="button" class="btn btn-light border border-secondary fw-bold p-3 text-secondary me-3"><img src="../../../assets/google.png" alt="logo google" width="30px"></button>
+                        <button type="button" class="btn btn-primary me-3 p-3"><img src="../../../assets/facebook.png" alt="logo facebook" width="30px"></button>
+                        <button type="button" class="btn btn-dark p-3"><img src="../../../assets/Apple_2.png" alt="logo apple" width="35px"></button>
+                    </div>
+                    <p class="text-secondary mt-3">━━━━━━━━━━━━━━━ oppure ━━━━━━━━━━━━━━━</p>
+                    <form class="d-flex flex-column w-100" #form="ngForm" (ngSubmit)="login(form)">
+                        <div class="mt-3">
+                            <label for="email" class="fw-bold">Email</label>
+                            <input type="email" class="form-control ps-4" #email="ngModel" ngModel name="email" required />
+                        </div>
+                        <div class="mt-3">
+                            <label for="email" class="fw-bold">Password</label>
+                            <input type="password" class="form-control ps-4" #password="ngModel" ngModel name="password"
+                        required />
+                        </div>
+                        <button type="submit" class="btn btn-warning mt-4 fs-4 fw-bold text-white rounded-pill" id="accedi">Accedi</button>
+                        <a class="text-center mt-3 text-secondary" id="pass">Password dimenticata?</a>
+                    </form>
+                    <div class="mt-5 d-flex flex-column text-secondary">
+                        <h3 class="h6">Non sei iscritto? <span class="me-2 text-poison pointer"
+                                [routerLink]="['/register']" routerLinkActive="router-link-active">Registrati</span></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

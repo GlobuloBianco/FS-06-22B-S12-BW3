@@ -1,0 +1,47 @@
+<app-navbar></app-navbar>
+<div class="container bg-light rounded mb-4" id="edit">
+    <div class="container text-center">
+        <h2 class="mb-4" id="cambiaRicetta">Cambia ricetta</h2>
+        <div class="container d-flex justify-content-center mb-3" id="loading">
+            <div class="spinner-border d-flex justify-content-center" role="status" *ngIf="loading">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+        <form #form="ngForm" (ngSubmit)="update(form)">
+                <div class="mb-4 form-group">
+                    <label for="title" class="form-label mb-3 fs-4">Inserisci titolo</label>
+                    <input name="title" type="text" class="form-control" id="title" [(ngModel)]="p!.title" [ngModelOptions]="{ standalone: true }" ngModel>
+                </div>
+                <div class="form-group">
+                    <label for="body" class="form-label mb-3 fs-4">Aggiorna descrizione</label>
+                    <textarea type="body" name="body" class="form-control" id="body" [(ngModel)]="p!.body" [ngModelOptions]="{ standalone: true }" ngModel></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="img1" class="form-label mb-3 mt-4 fs-4">Aggiorna la prima foto</label>
+                    <textarea type="img1" name="img1" class="form-control" id="img1" [(ngModel)]="p!.img1" [ngModelOptions]="{ standalone: true }" ngModel></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="ingredienti" class="form-label mb-4 mt-4 fs-4">Aggiorna gli ingredienti</label>
+                    <textarea type="ingredienti" name="ingredienti" class="form-control" id="ingredienti" [(ngModel)]="p!.ingredienti" [ngModelOptions]="{ standalone: true }" ngModel></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="ricetta" class="form-label mb-3 mt-4 fs-4">Aggiorna la ricetta</label>
+                    <textarea type="ricetta" name="ricetta" class="form-control" id="ricetta" [(ngModel)]="p!.ricetta" [ngModelOptions]="{ standalone: true }" ngModel></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="categoria" class="form-label mb-3 mt-4 fs-4">Aggiorna la categoria</label>
+                    <select type="categoria" name="categoria" class="form-select" id="categoria" [(ngModel)]="p!.categoria" [ngModelOptions]="{ standalone: true }" ngModel>
+                        <option value="antipasti">Antipasti</option>
+                        <option value="primi">Primi</option>
+                        <option value="secondi">Secondi</option>
+                        <option value="dolci">Dolci</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-success mt-4">Cambia</button>
+        </form>
+    </div>
+    <div class="container">
+      <button type="button" class="btn mt-5 text-white fs-5" [routerLink]="['/post']" routerLinkActive="router-link-active" id="back"><i class="bi bi-arrow-left"></i></button>
+    </div>
+    <app-footer></app-footer>
+</div>

@@ -1,0 +1,128 @@
+<nav class="navbar bg-white fixed-top">
+    <div class="container-fluid mx-lg-4">
+        <div class=" d-flex pointer">
+            <button class="navbar-toggler me-2" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                <span id="menu"><i class="bi bi-list"></i></span>
+            </button>
+            <div class="d-flex flex-row justify-content-center align-items-center me-4">
+                <a class="navbar-brand"><img class="rotate" src="../../../assets/logo.png" alt="logo" width="50px"></a>
+                <p class="m-0 text-warning fs-5" [routerLink]="['/']" routerLinkActive="active">Giallo <span class="text-poison me-2">Zafferano</span></p>
+            </div>
+            <div class="dropdown d-flex align-items-center">
+                <button class="btn btn-light text-purple rounded-pill" type="button" data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    Ricette <span><i class="fa-sharp fa-solid fa-chevron-down"></i></span>
+                </button>
+                <ul class="dropdown-menu rounded-bottom pe-2">
+                    <li><a class="dropdown-item fw-bold" [routerLink]="['/post']" routerLinkActive="active"><span><i
+                                    class="fa-solid fa-utensils me-3 fs-5"></i></span> Tutte le ricette</a></li>
+                    <li><a class="dropdown-item ms-2 fw-bold" [routerLink]="['/antipasti']"
+                        routerLinkActive="active"><span class="me-4 second"></span> Antipasti</a>
+                    </li>
+                    <li><a class="dropdown-item ms-2 fw-bold" [routerLink]="['/primiPiatti']"
+                            routerLinkActive="active"><span class="me-4 second"></span> Primi
+                            piatti</a></li>
+                    <li><a class="dropdown-item ms-2 fw-bold" [routerLink]="['/secondiPiatti']"
+                        routerLinkActive="active"><span class="me-4 second"></span> Secondi
+                            piatti</a></li>
+                    <li><a class="dropdown-item ms-2 fw-bold" [routerLink]="['/dolci']"
+                        routerLinkActive="active"><span class="me-4 second"></span> Dolci</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar"
+            aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas-header">
+                <h3 class="text-warning mt-3 ms-3">Gran <span class="text-poison me-2">Zafferano</span></h3>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <form class="mb-4 ms-3">
+                    <input type="text" placeholder="Cerca una ricetta"
+                        class="border border-secondary text-secondary rounded-4 py-2 px-4">
+                    <button type="button" class="btn btn-light rounded-pill py-2 px-4 ms-2"><i
+                            class="bi bi-search"></i></button>
+                </form>
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 ms-3">
+                    <li class="nav-item">
+                        <a class="nav-link" [routerLink]="['/']" routerLinkActive="active"
+                            [routerLinkActiveOptions]="{ exact: true }"><i class="bi bi-house-door fs-5 me-3"></i>
+                            Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" [routerLink]="['/post']" routerLinkActive="active"><i
+                                class="fa-solid fa-utensils fs-5 me-3"></i> Ricette</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-clock fs-5 me-3"></i> Ultime ricette</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="fa-solid fa-utensils fs-5 me-3"></i> Ricette veloci</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-arrow-right-circle fs-5 me-3"></i> Cucina cinese</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-arrow-right-circle fs-5 me-3"></i> Scopri GZ Club</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-lightbulb fs-5 me-3"></i> Creators</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-chat-right fs-5 me-3"></i> Top blogger</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-chat-right-text fs-5 me-3"></i> Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-bag fs-5 me-3"></i> Shopping</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-megaphone fs-5 me-3"></i> GZ Mag</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-arrow-right-circle fs-5 me-3"></i> In edicola</a>
+                    </li>
+                    <hr>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-arrow-right-circle fs-5 me-3"></i> Idee con Curtiriso</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-arrow-right-circle fs-5 me-3"></i> Dolci con Nutella</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"><i class="bi bi-arrow-right-circle fs-5 me-3"></i> Checken Creation</a>
+                    </li>
+                    <hr>
+                    <p class="text-secondary mt-5 fw-bold" id="app">SCARICA L'APP</p>
+                    <div class="container" id="scarica">
+                        <button type="button" class="btn btn-dark text-white fw-bold py-2"><i class="bi bi-apple me-3 fs-4"></i>App
+                            Store</button>
+                        <button type="button" class="btn btn-dark text-white fw-bold py-2 mt-3"><i class="bi bi-google-play me-3 fs-4"></i>Google
+                            Play</button>
+                    </div>
+                    <p class="text-secondary mt-5 fw-bold" id="app">SEGUICI</p>
+                    <div class="container" id="seguici">
+                        <a href="https://www.facebook.com/GialloZafferanolive" target="_blank" class="btn btn-light me-3 pe-3"><i
+                                class="bi bi-facebook me-3"></i>Facebook</a>
+                        <a href="https://www.pinterest.it/GialloZafferano/" target="_blank" class="btn btn-light"><i class="bi bi-pinterest me-3"></i>
+                            Pinterest</a>
+                        <a href="https://www.instagram.com/giallozafferano/" target="_blank" class="btn btn-light me-3 mt-3"><i class="fab fa-instagram me-3"></i>
+                            Instagram</a>
+                        <a href="https://www.tiktok.com/login?redirect_url=https%3A%2F%2Fwww.tiktok.com%2F%40giallozafferano&lang=en&enter_method=mandatory"
+                    target="_blank" class="btn btn-light mt-3 pe-4"><i class="bi bi-tiktok me-3"></i>
+                            TikTok</a>
+                        <a href="https://www.youtube.com/user/GialloZafferanoTV" target="_blank" class="btn btn-light me-3 mt-3 pe-3"><i class="bi bi-youtube me-3"></i>
+                            YouTube</a>
+                        <a href="https://twitter.com/GialloZafferano" target="_blank" class="btn btn-light mt-3 pe-4"><i class="bi bi-twitter me-3"></i>
+                            Twitter</a>
+                    </div>
+                </ul>
+            </div>
+        </div>
+        <button type="button" class="btn btn-warning text-white fw-bold rounded-pill" (click)="logout()"
+            id="logout">Logout <span><i class="bi bi-arrow-bar-right fs-5"></i></span>
+        </button>
+    </div>
+</nav>

@@ -1,0 +1,161 @@
+<app-navbar></app-navbar>
+<div class="container bg-light rounded mb-4" id="home">
+    <div class="container text-center d-flex flex-row justify-content-center mb-4 mt-2" id="link">
+        <a [routerLink]="['/post']" routerLinkActive="active" class="me-4 fs-5">Tutte le ricette</a>
+        <a [routerLink]="['/antipasti']" routerLinkActive="active" class="me-4 fs-5">Antipasti</a>
+        <a [routerLink]="['/primiPiatti']" routerLinkActive="active" class="me-4 fs-5">Primi Piatti</a>
+        <a [routerLink]="['/secondiPiatti']" routerLinkActive="active" class="me-4 fs-5">Secondi Piatti</a>
+        <a [routerLink]="['/dolci']" routerLinkActive="active" class="fs-5">Dolci</a>
+    </div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4"
+                aria-label="Slide 5"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5"
+                aria-label="Slide 6"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6"
+                aria-label="Slide 7"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7"
+                aria-label="Slide 8"></button>
+        </div>
+        <div class="container w-75">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://www.giallozafferano.it/images/224-22468/Focaccia-fugassa-alla-genovese_450x300.jpg"
+                        class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Focaccia alla genovese</h2>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/236-23676/Guacamole_450x300.jpg"
+                        class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Guacamole</h2>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/244-24489/Spaghetti-alla-Carbonara_450x300_sp.jpg"
+                        class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Spaghetti alla Carbonara</h2>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/239-23911/Spaghetti-alla-puttanesca_450x300.jpg"
+                        class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Spaghetti alla puttanesca</h2>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/241-24154/Polpette-al-sugo_450x300.jpg
+                  " class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Polpette al sugo</h2>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/234-23446/Parmigiana-di-melanzane_450x300.jpg"
+                        class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Parmigiana di melanzane</h2>
+                        </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/243-24387/Pancakes-allo-sciroppo-d-acero_450x300.jpg"
+                        class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Pancakes allo sciroppo d'acero</h2>
+                        </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="https://www.giallozafferano.it/images/235-23566/Tortino-di-cioccolato-con-cuore-fondente_450x300.jpg"
+                        class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h2 class="bg-light rounded-pill p-2" style="box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.5), inset 0px 0px 50px 20px rgba(0, 0, 0, 0.47);">Tortino al cioccolato con cuore fondente</h2>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="prev">
+            <span aria-hidden="true"><i
+                    class="bi bi-chevron-left text-warning fs-2 border border-warning border-3 p-2 rounded-circle"></i></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="next">
+            <span aria-hidden="true"><i
+                    class="bi bi-chevron-right fs-2 text-warning border border-warning border-3 p-2 rounded-circle"></i></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <div class="container mt-5 mb-4 text-center">
+        <button class="btn text-white fw-bold rounded-pill" [routerLink]="['/addPost']" routerLinkActive="active"
+            id="aggiungi">Aggiungi ricetta</button>
+    </div>
+    <router-outlet></router-outlet>
+    <hr>
+    <div class="container my-5 ms-2">
+        <h4 class="text mb-3">HO VOGLIA DI <span><i class="bi bi-arrow-down fs-3 text-warning"></i></span></h4>
+        <div class="container ms-5">
+            <div class="row">
+                <div class="col col-3">
+                    <a class="textS fw-bold fs-4" [routerLink]="['/antipasti']" routerLinkActive="active">Antipasti</a>
+                    <p class="textS fs-5 fw-light mt-3">Antipasti veloci</p>
+                    <p class="textS fs-5 fw-light">Pasta</p>
+                    <p class="textS fs-5 fw-light">Pesce</p>
+                    <p class="textS fs-5 fw-light">Dolci veloci</p>
+                    <p class="textS fs-5 fw-light">Secondi vegetariani</p>
+                    <p class="textS fs-5 fw-light">Ricette al forno</p>
+                    <p class="textS fs-5 fw-light">Fritti</p>
+                </div>
+                <div class="col col-3">
+                    <a class="textS fw-bold fs-4" [routerLink]="['/primiPiatti']" routerLinkActive="active">Primi</a>
+                    <p class="textS fs-5 fw-light mt-3">Pasta fresca</p>
+                    <p class="textS fs-5 fw-light">Facili e veloci</p>
+                    <p class="textS fs-5 fw-light">Biscotti</p>
+                    <p class="textS fs-5 fw-light">Finger food</p>
+                    <p class="textS fs-5 fw-light">Paste sfiziose</p>
+                    <p class="textS fs-5 fw-light">Gnocchi</p>
+                    <p class="textS fs-5 fw-light">Marmellate</p>
+                </div>
+                <div class="col col-3">
+                    <a class="textS fw-bold fs-4" [routerLink]="['/secondiPiatti']"
+                        routerLinkActive="active">Secondi</a>
+                    <p class="textS fs-5 fw-light mt-3">Carne</p>
+                    <p class="textS fs-5 fw-light">Piccola pasticceria</p>
+                    <p class="textS fs-5 fw-light">Pane</p>
+                    <p class="textS fs-5 fw-light">Grandi classici</p>
+                    <p class="textS fs-5 fw-light">Cioccolato</p>
+                    <p class="textS fs-5 fw-light">Piatti unici</p>
+                    <p class="textS fs-5 fw-light">Riso</p>
+                </div>
+                <div class="col col-3">
+                    <a class="textS fw-bold fs-4" [routerLink]="['/dolci']" routerLinkActive="active">Dolci</a>
+                    <p class="textS fs-5 fw-light mt-3">Pizze e focacce</p>
+                    <p class="textS fs-5 fw-light">Torte</p>
+                    <p class="textS fs-5 fw-light">Primi veloci</p>
+                    <p class="textS fs-5 fw-light">Torte salate</p>
+                    <p class="textS fs-5 fw-light">Contorni</p>
+                    <p class="textS fs-5 fw-light">Torte veloci</p>
+                    <p class="textS fs-5 fw-light">Insalate</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container mt-5 ms-2">
+        <app-card-home></app-card-home>
+    </div>
+    <app-footer></app-footer>
+</div>

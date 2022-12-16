@@ -1,0 +1,2170 @@
+{
+  "users": [
+    {
+      "email": "flavio@flavio.com",
+      "password": "$2a$10$NsLKhXTcZsrx5M5vX2hLU.agmemPuluTV/HoXJqlr.d/EYKbb7FeW",
+      "name": "Flavio",
+      "id": 1
+    }
+  ],
+  "antipasti": [
+    {
+      "id": 1,
+      "title": "Focaccia alla genovese",
+      "body": "La focaccia alla genovese, in dialetto fugassa, è una specialità tipica della cucina ligure ed è diventata un presidio Slow Food.",
+      "img1": "https://www.giallozafferano.it/images/224-22468/Focaccia-fugassa-alla-genovese_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Farina 00",
+          "quantita": "400g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina Manitoba",
+          "quantita": "250g"
+        },
+        {
+          "id": 3,
+          "nome": "Acqua (a temperatura ambiente)",
+          "quantita": "335g"
+        },
+        {
+          "id": 4,
+          "nome": "Sale fino",
+          "quantita": "13g"
+        },
+        {
+          "id": 5,
+          "nome": "Malto",
+          "quantita": "10g"
+        },
+        {
+          "id": 6,
+          "nome": "Lievido di birra fresco",
+          "quantita": "18g"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extra vergine d'oliva",
+          "quantita": "30g"
+        }
+      ],
+      "ricetta": "Per preparare la focaccia genovese versate in una ciotola la farina manitoba e la farina 00. Miscelate con una marisa, poi formate un leggero buco al centro e versate quasi tuta l'acqua. Mescolate ancora per far amalgamare l'acqua, poi unite il malto e il sale tutto insieme. Mescolate, poi versate l'acqua rimasta e lavorate ancora con la marisa fino ad ottenere una pasta omogenea. Una volta che il sale si sarà integrato alla farina potrete aggiungere il lievito di birra sbriciolato. Ancora qualche giro di marisa e l'impasto è pronto per trasferirlo sul piano di lavoro e continuare a lavorare a mano, piuttosto energicamente. Se è rimasta un po' di farina non assorbita, non importa: si assorbirà lavorandola, facendo delle pressioni con il palmo della mano mentre impastate, proprio a 'strappare l'impasto' replicando il movimento della macchina. Dopo pochi minuti, quando vedete che la maglia glutinica prende forma, quindi l'impasto risulta più omogeno e quasi elastico, versate l'olio sull'impasto. Continuate a lavorare sul piano per far assorbire tutto l'olio sempre impastando energicamente. In base al tipo di farina utilizzato, mentre lavorate, potrebbe essere necessario spolverizzare con pochissima farina. In tutto ci vorranno 13-15 minuti, per ottenere un impasto liscio ed omogeneo. Potete coprirlo e lasciarlo riposare per qualche minuto. Quindi togliete il canovaccio. Chiudete l'impasto roteando sul piano, noterete che in pochissimi secondi diventerà liscio. Dividete ;'impasto in due pezzi da 500g, date una forma rettangolare schiacciandolo con le mani, e date una piaga a tre. Per farlo potete ripiegare l'impasto su se stesso, portando un lembo verso l'interno e poi ripiegando ancora, lasciando una linea sotto e arrotolandolo per finire, in modo che la chiusura resti appunto a contatto con il banco di lavoro, leggermente spolverizzato di farina. Ripetete la stessa operazione anche per l'altra metà di impasto. Coprite con un panno e lasciate riposare per circa 30 minuti. Togliete il canovaccio, prendete uno dei due panetti e mantenete l'altro coperto. Ungete la prima teglia 30x40 con 15 g di olio, senza andare negli angoli perchè ci andrà da solo. Posizionate il panetto su un piano infarinato, schiacciatelo con le dita per allargarlo, sempre utilizzando solo indice, medio e anulare quindi 3 dita della mano. Poi passate a stendere l'impasto con un mattarello, girando l'impasto di tanto in tanto in modo da mantenere una forma rettangolare. Passate le mani sotto l'impasto, quindi giratele in modo che il dorso delle mani sollevi l'impasto per adagiarlo senza ledere la pasta sulla teglia fino a ricoprire il 70-80%. Coprite con un panno e lasciate riposare ancora per 20-30 minuti. Nel frattempo ripetete la stessa operazione per il secondo panetto di impasto. A questo punto spolverizzate la focaccia con poca farina, schiacciate bene con la punta delle dita stendendo l'impasto su tutta la teglia, partendo dal perimetro per creare un piccolo bordo. E' importante che l'impasto aderisca bene alla teglia, in questo modo quando verserete sopra la salamoia, non finirà sul fondo. Lisciate il più possibile con il palmo delle mani la superficie, coprite di nuovo e lasciate ripsare per un'ora. A questo punto preparate la salamoia mescolando insieme acqua e sale, fino a che non sarà ben sciolto. Scoprite la focaccia, spolverizzatela con pochissima farina e con le tre dita (indice, medio anulare) imprimete i tipici buchi facendo una bella pressione e spingando verso i bordi: le dita non devono essere perpendicolari all'impasto, ma leggermente inclinate. Dovrete lasciare circa 1 cm tra un buco e l'altro. Quando avrete quasi terminato di realizzare tutti i fori, ruotate la teglia, in questo modo sarà più semplice realizzare tutti i fori anche lungo il bordo rimasto. Ora versate al centro di ogni focaccia 30 g di olio e 90 g di salamoia. Poi spargetela delicatamente con la mano in modo da riempire tutti i buchi. Lasciate lievitare per altri 40-45 minuti, questa volta senza coprirla. Cuocete in forno statico preriscaldato a 230° per 15 minuti (se il forno è molto potente, consigliamo in caso di modificare temperatura, ma non la tempistica. E' bene non cuocere oltre i 15 minuti per non far asciugare troppo la focaccia). Quando la superficie risulterà dorata potrete sfornare la vostra focaccia! Lasciatela intiepidire pochi minuti, tagliatela e servitela!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 2,
+      "title": "Guacamole",
+      "body": "Il guacamole è una salsa messicana a base di avocado ottima per accompagnare nachos e tortillas: sopri ingredienti e ricetta per prepararla a casa!",
+      "img1": "https://www.giallozafferano.it/images/236-23676/Guacamole_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Avocato",
+          "quantita": "500g"
+        },
+        {
+          "id": 2,
+          "nome": "Cipolle bianche",
+          "quantita": "35g"
+        },
+        {
+          "id": 3,
+          "nome": "Succo di limone",
+          "quantita": "35g"
+        },
+        {
+          "id": 4,
+          "nome": "Coriandolo",
+          "quantita": "q.b."
+        },
+        {
+          "id": 5,
+          "nome": "Pomodori ramati",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        }
+      ],
+      "ricetta": "Per preparare il guacamole, per prima cosa mondate e tritate finemente la cipolla, poi tritate anche il coriandolo. Dividete l’avocado a metà ed estraete il nocciolo. Prelevate la polpa con l’aiuto di un cucchiaio e versatela all’interno di un mortaio. Aggiungete il succo di lime e cominciate a pestare fino ad ottenere una crema. Unite anche la cipolla tritata e il coriandolo e pestate ancora per amalgamare il tutto, poi aggiustate di sale. Se vi piace il piccante, a questo punto potete aggiungere del peperoncino fresco o qualche goccia di tabasco. In ultimo riducete il pomodoro a dadini e aggiungetelo sulla salsa. La vostra salsa guacamole è pronta per essere servita!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 3,
+      "title": "Polpettine di tonno e ricotta",
+      "body": "Le polpettine di tonno e ricotta sono ideali da servire come antipasto o secondo: un modo originale e sfizioso per utilizzare il tonno in scatola!",
+      "img1": "https://www.giallozafferano.it/images/198-19827/Polpettine-di-tonno-e-ricotta_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Tonno sott'olio sgocciolato",
+          "quantita": "230g"
+        },
+        {
+          "id": 2,
+          "nome": "Ricotta vaccina",
+          "quantita": "200g"
+        },
+        {
+          "id": 3,
+          "nome": "Acciughe (alici)",
+          "quantita": "20g"
+        },
+        {
+          "id": 4,
+          "nome": "Capperi sotto sale",
+          "quantita": "20g"
+        },
+        {
+          "id": 5,
+          "nome": "Pangrattato",
+          "quantita": "50g"
+        },
+        {
+          "id": 6,
+          "nome": "Prezzemolo da tritare",
+          "quantita": "8g"
+        },
+        {
+          "id": 7,
+          "nome": "Uova medie",
+          "quantita": "2"
+        },
+        {
+          "id": 8,
+          "nome": "Parmiggiano Reggiano DOP",
+          "quantita": "50g"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 10,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le polpettine di tonno e ricotta iniziate dalla preparazione dell'impasto. Unite in una ciotola la ricotta, il parmigiano grattugiato, il tonno sbriciolato e le acciughe sgocciolate. Aggiungete i capperi (preventivamente sciacquati), il prezzemolo tritato, il pangrattato e in ultimo le uova leggermente sbattute, quindi iniziate a mescolare il composto con una forchetta. Miscelate insieme tutti gli ingredienti, aggiungete il sale e il pepe e terminate di impastare con le mani fino ad avere un composto compatto ed omogeneo: se il composto dovesse risultare troppo morbido potete aggiungere ancora un po' di formaggio, in caso contrario potete ammorbidirlo con qualche goccia di latte. A questo punto inumidite leggermente le mani e prelevate delle piccole porzioni di impasto del peso di circa 30 grammi a cui darete la classica forma a polpettina, tonda e leggermente schiacciata. Dopo aver formato tutte le polpette, passatele nel pangrattato e scaldate l'olio di semi in un pentolino fino alla temperatura di 180°. Friggete poche polpettine alla volta: basteranno pochi istanti per farle diventare belle dorate. Quando le polpettine si saranno dorate, scolatele e trasferitele su della carta assorbente da cucina per eliminare l'olio in eccesso. Servite le vostre polpettine di tonno e ricotta ancora calde!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 4,
+      "title": "Panzerotti (calzoni) fritti",
+      "body": "I panzerotti, o calzoni, fritti sono tipici della cucina pugliese, pasta lievitata farcita con mozzarella e pomodoro e infine fritta! Buonissimi!",
+      "img1": "https://www.giallozafferano.it/images/224-22433/Panzerotti-calzoni-fritti_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Farina 00",
+          "quantita": "250g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina manitoba",
+          "quantita": "250g"
+        },
+        {
+          "id": 3,
+          "nome": "Acqua tiepida",
+          "quantita": "285g"
+        },
+        {
+          "id": 4,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "8g"
+        },
+        {
+          "id": 5,
+          "nome": "Lievito di birra fresco",
+          "quantita": "8,5g"
+        },
+        {
+          "id": 6,
+          "nome": "Zucchero",
+          "quantita": "5g"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "10g"
+        },
+        {
+          "id": 8,
+          "nome": "Fiordilatte",
+          "quantita": "250g"
+        },
+        {
+          "id": 9,
+          "nome": "Passata di pomodoro",
+          "quantita": "200g"
+        },
+        {
+          "id": 10,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 11,
+          "nome": "Origano",
+          "quantita": "q.b"
+        },
+        {
+          "id": 12,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare i panzerotti fritti cominciate dall'impasto lievitato. In una ciotola versate la farina 00 e la manitoba, sbriciolate il lievito di birra fresco e aggiungete lo zucchero. Aggiungete metà dell'acqua e iniziate a lavorare con un tarocco. Aggiungete quindi il sale, la restante acqua e lavorate ancora con il tarocco. Unite poi l'olio e iniziate ad impastare con le mani. Non appena l'impasto avrà preso consistenza trasferitelo sul piano e impastate per alcuni minuti finché non sarà liscio e omogeneo. Formate quindi un salsicciotto e stagliatelo in 10 pezzi da 80 g ciascuno. Per formare le palline appiattite una porzione di impasto sul piano di lavoro e portate tutti i lati della pasta verso il centro. Poi pirlate ciascuna porzione, schiacciando delicatamente con il palmo della mano verso il piano e facendo un movimento rotatorio. Sistemate quindi le palline su un vassoio, distanziandole bene, coprite con un canovaccio e lasciate lievitare per un'ora e mezza, fino a quando non avranno raddoppiato di volume. Intanto occupatevi del ripieno. Tagliate il fiordilatte a dadini e mettetelo a scolare così perderà parte del siero. In un pentolino scaldate un filo d'olio e versate la passata di pomodoro. Regolate di sale e fate cuocere a fuoco dolce per circa 15 minuti. Quando sarà pronto trasferite il sugo in una ciotola, profumate con dell'origano secco, mescolate e lasciate raffreddare. Recuperate le palline, ormai lievitate. Prendetene una, schiacciatela leggermente su un piano leggermente infarinato e tiratela  aiutandovi con il matterello. Dovrete ottenere un disco rotondo spesso circa 2 mm. Ponete al centro di ogni cerchietto prima la passata di pomodoro e poi la mozzarella. A questo punto scaldate abbondante olio di semi in una pentola portandolo a 170° e friggete i panzerotti, immergendone 1- 2 alla volta. Appena torneranno in superficie girateli. Per cuocerli in maniera uniforme basterà girarli spesso. Scolate su carta assorbente e proseguite la cottura degli altri. I panzerotti sono pronti, serviteli caldissimi!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 5,
+      "title": "Arancini di riso",
+      "body": "Gli arancini di riso, vanto della cucina siciliana, sono piccoli timballi di riso farcito, uno street food sfizioso e saporito!",
+      "img1": "https://www.giallozafferano.it/images/2-247/Arancini-di-riso_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Zafferano",
+          "quantita": "1 bustina"
+        },
+        {
+          "id": 2,
+          "nome": "Burro",
+          "quantita": "30g"
+        },
+        {
+          "id": 3,
+          "nome": "Riso vialone nano",
+          "quantita": "500g"
+        },
+        {
+          "id": 4,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 5,
+          "nome": "Acqua",
+          "quantita": "1,2 l"
+        },
+        {
+          "id": 6,
+          "nome": "Caciocavallo stagionato da grattuggiare",
+          "quantita": "100g"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Cipolle",
+          "quantita": "1/2"
+        },
+        {
+          "id": 10,
+          "nome": "Burro",
+          "quantita": "25g"
+        },
+        {
+          "id": 11,
+          "nome": "Maiale macinato",
+          "quantita": "100g"
+        },
+        {
+          "id": 12,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 13,
+          "nome": "Passata di pomodoro",
+          "quantita": "200mg"
+        },
+        {
+          "id": 14,
+          "nome": "Pisellini",
+          "quantita": "80g"
+        },
+        {
+          "id": 15,
+          "nome": "Caciocavallo fresco",
+          "quantita": "50g"
+        },
+        {
+          "id": 16,
+          "nome": "Vino rosso",
+          "quantita": "50ml"
+        }
+      ],
+      "ricetta": "Per preparare gli arancini di riso siciliani, iniziate lessando il riso in 1,2 l di acqua bollente salata, in modo da far si che, a cottura avvenuta, l'acqua sia stata completamente assorbita (questo permetterà all'amido di rimanere tutto in pentola e otterrete un riso molto asciutto e compatto). Fate cuocere per circa 15 minuti, poi sciogliete lo zafferano in pochissima acqua calda e unitelo al riso ormai cotto. Unite anche il burro a pezzetti. Unite il formaggio grattugiato, mescolate bene per amalgamare il tutto, dopodiché  versate e livellate il riso su un vassoio ampio e basso e copritelo con la pellicola, per farlo rafferddare completamente, la pellicola eviterà che la superficie del riso si secchi. Lasciate riposare il riso per un paio di ore fuori dal frigorifero. Intanto dedicatevi al ripieno al ragù: mondate e affettate finemente la cipolla Fate stufare la cipolla tritata in un tegame con 2 cucchiai d’olio e il burro, poi unite la carne macinata; fatela rosolare a fuoco vivace, quindi aggiungete il vino e lasciatelo sfumare. A questo punto aggiungete la passata di pomodoro, aggiustate di sale e di pepe a piacere e fate cuocere a fuoco lento coperto per almeno 20 minuti. A metà cottura, aggiungete i piselli (se necessario potete aggiungere pochissima acqua calda perchè il ragù dovrà risultare ben rappreso e non liquido). Mentre i piselli si cuociono tagliate a cubetti il caciocavallo, il prosciutto cotto e la mozzarella. Avrete così pronti tutti i ripieni. Una volta che il riso si sarà raffreddato completamente (ci vorranno almeno un paio di ore), potrete formare gli arancini, per aiutarvi nella formazione tenete vicino una ciotola colma di acqua così da potervi inumidirvi le mani. Prelevate un paio di cucchiai di riso per volta (circa 120 gr di riso), schiacciate il mucchietto al centro del mano formando una conca e versateci all'interno un cucchiaino di ripieno al ragù, aggiungete qualche cubetto di caciocavallo. Quindi richiudete la base dell'arancino con il riso e modellatelo dandogli una forma a punta: potete dare questa forma a tutti gli arancini farciti con il ragù. Mentre per il ripieno al prosciutto, farcite ciascun arancino (formato circa da 130 gr di riso) con dadini di prosciutto e mozzarella. Il ripieno con questo tipo di ripieno viene tradizionalmente detto 'al burro'. e modellateli dandogli una forma rotonda. Ora che avete tutti gli arancini pronti, preparate la pastella: in una ciotola versate la farina setacciata, un pizzico di sale e l'acqu a filo. Mescolate accuratamente con una frusta per evitare che si formino grumi. Quindi tuffate gli arancini, uno ad uno, nella pastella avendo cura di ricoprirli interamente e rotolateli nel pangrattato. In un pentolino scaldate l'olio e portatelo alla temperatura di 170°, a quel punto friggete un arancino alla volta o massimo due per non abbassare la temperatura dell'olio: quando saranno ben dorati potrete scolarli ponendoli su un vassoio foderato con carta assorbente. Mi raccomando: gustate gli arancini di riso siciliani ben caldi!",
+      "categoria": "Antipasti"
+    }
+  ],
+  "primiPiatti": [
+    {
+      "id": 6,
+      "title": "Spaghetti alla Carbonara",
+      "body": "La ricetta degli spagetti alla carbonara è tipica romana, apprezzata e replicata in tutto il mondo! Scopri come fare la carbonara perfetta!",
+      "img1": "https://www.giallozafferano.it/images/244-24489/Spaghetti-alla-Carbonara_450x300_sp.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Guanciale",
+          "quantita": "150g"
+        },
+        {
+          "id": 3,
+          "nome": "Tuorli (di uova medie)",
+          "quantita": "6"
+        },
+        {
+          "id": 4,
+          "nome": "Pecorino romano",
+          "quantita": "50g"
+        },
+        {
+          "id": 5,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale e tagliatelo prima a fette e poi a striscioline spesse circa 1cm. La cotenna avanzata potrà essere riutilizzata per insaporire altre preparazioni. Versate i pezzetti di guanciale in una padella antiaderente e rosolate per circa 10 minuti a fiamma medio alta, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte. Nel frattempo tuffate gli spaghetti nell’acqua bollente e cuoceteli al dente. Intanto versate i tuorli in una ciotola. Aggiungete il Pecorino e insaporite con il pepe nero. Amalgamate il tutto con una frusta a mano, sino ad ottenere una crema liscia. Intanto il guanciale sarà giunto a cottura; spegnete il fuoco e utilizzando un mestolo prelevatelo dalla padella, lasciando il fondo di cottura all'interno della padella stessa. Trasferite il guanciale in una ciotolina e tenetelo da parte. Versate una mestolata d’acqua della pasta in padella, insieme al grasso del guanciale. Scolate la pasta al dente direttamente nel tegame con il fondo di cottura. Saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e Pecorino nel tegame. Mescolate velocemente per amalgamare. Per renderla ben cremosa, al bisogno, potete aggiungere poca acqua di cottura della pasta. Aggiungete il guanciale, mescolate un'ultima volta e servite subito gli spaghetti alla carbonara aggiungendo ancora del pecorino in superficie e un pizzico di pepe nero.",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 7,
+      "title": "Lasagne alla Bolognese",
+      "body": "Un classico primo piatto della domenica: lasagne alla bolognese, tipiche emiliane, diffuse e apprezzati in tutta Italia! Scopri come realizzarle!",
+      "img1": "https://www.giallozafferano.it/images/229-22941/Lasagne-alla-Bolognese_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Semola di grano duro rimacinata",
+          "quantita": "350g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina 00",
+          "quantita": "150g"
+        },
+        {
+          "id": 3,
+          "nome": "Spinaci",
+          "quantita": "250g"
+        },
+        {
+          "id": 4,
+          "nome": "Uova",
+          "quantita": "2"
+        },
+        {
+          "id": 5,
+          "nome": "Tuorli",
+          "quantita": "3"
+        },
+        {
+          "id": 6,
+          "nome": "Carne bovina",
+          "quantita": "300g"
+        },
+        {
+          "id": 7,
+          "nome": "Pancetta",
+          "quantita": "150g"
+        },
+        {
+          "id": 8,
+          "nome": "carote",
+          "quantita": "50g"
+        },
+        {
+          "id": 9,
+          "nome": "Sedano",
+          "quantita": "50g"
+        },
+        {
+          "id": 10,
+          "nome": "Cipolle dorate",
+          "quantita": "50g"
+        },
+        {
+          "id": 11,
+          "nome": "Vino rosso",
+          "quantita": "50g"
+        },
+        {
+          "id": 12,
+          "nome": "Passata di pomodoro",
+          "quantita": "300g"
+        },
+        {
+          "id": 13,
+          "nome": "Brodo vegetale",
+          "quantita": "q.b"
+        },
+        {
+          "id": 14,
+          "nome": "Olio extra vergine d'oliva",
+          "quantita": " 1 cucchiaio"
+        },
+        {
+          "id": 15,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 16,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le lasagne alla bolognese, iniziate dal ragù. Preparate il brodo vegetale che dovrete tenere in caldo. Poi prendete la pancetta, tagliatela prima a striscioline. Con un coltello o una mezzaluna sminuzzatela per bene. A parte preparate un trito fine con carote, cipolle, sedano e tenetelo da parte. In una casseruola versate un filo d'olio e la pancetta. Sgranatela bene con un mestolo e lasciatela rosolare per alcuni minuti. Aggiungete poi il trito di verdure e fate insaporire per 5-6 minuti. Aggiungete poi la carne macinata. Mescolate e alzate la fiamma. Lasciate rosolare la carne senza fretta, dovrà essere ben rosolata per sigillare i succhi e risultare morbida non stopposa. Sfumate con il vino rosso, poi aspettate che sia completamente evaporato e aggiungete la passata di pomodoro. Mescolate, il ragù deve cuocere due ore. Quando ha ripreso il bollore potete aggiungete poco brodo caldo, uno o due mestoli. Poi fate andare il ragù per un paio d'ore almeno. Dovrete cuocere con il coperchio, senza chiudere del tutto. Controllate e mescolate di tanto in tanto, al bisogno aggiungete altro brodo e lasciate cuocere per il tempo indicato. Passate adesso alla pasta. Come prima cosa versate gli spinaci in un tegame, aggiungete poca acqua, coprite con un coperchio e lasciate cuocere fino a che non saranno appassiti, in totale ci vorranno 5-6 minuti. A questo punto scolateli, lasciateli intiepidire e strizzateli bene. Trasferiteli in un mixer e frullateli fino ad ottenere una purea. Dovrete ricavarne 100 g. Adesso su una spianatoia versate la semola e la farina 00, aggiungete gli spinaci e create una forma a fontana. Unite le uova leggermente sbattute e i tuorli, sempre sbattuti. Iniziate ad impastare il tutto partendo dal centro, in questo modo le uova non scivoleranno fuori dalla fontana. Impastate bene fino ad ottenere un panetto omogeneo. Avvolgetelo nella pellicola e lasciate riposare per 30 minuti a temperatura ambiente. Nel frattempo preparate la besciamella, ricordandovi sempre di controllare il ragù. In un pentolino mettete a scaldare il latte, senza farlo bollire. In un altro tegame versate il burro e lasciatelo fondere. Aggiungete la farina in una volta sola e cuocete per pochi minuti fino ad ottenere un roux dorato. Versate quindi il latte caldo in 3 volte, mescolando bene. Aggiungete il sale e aromatizzate con la noce moscata. Continuate a mescolare fino ad ottenere una besciamella cremosa. Trasferite in una ciotolina, coprite con pellicola a contatto e tenete da parte. Non appena saranno trascorsi i 30 minuti riprendete il panetto di pasta e prelevatene un pezzo. Coprite la pasta restante con la pellicola per non farla seccare. Aiutandovi con un po' di semola appiattitelo leggermente sulla spianatoia in modo da formare un rettangolo e stendete la pasta nella macchina. Iniziate da uno spessore più largo, poi ripiegate la passa su se stessa e ripassatela. Quando sentite che è troppo umida spolverizzate con un po' di semola. Riducete man mano lo spessore fino ad ottenere una sfoglia spessa poco più di mezzo mm. Trasferitela su una spianatoia e tagliate dei rettangoli grandi 30x20 cm. Proseguite in questo modo fino a terminare l'impasto e nel frattempo mettete sul fuoco una pentola colma d'acqua e salatela. Quando inizierà a bollire mmergete una sfoglia alla volta, aspettate 30-40 secondi e aiutandovi con una schiumarola scolatela. Trasferitela su un vassoio con un canovaccio e tamponate per togliere l'acqua in eccesso. Proseguite in questo modo affiancando le sfoglie cotte, senza sovrapporle. Non appena anche il ragù sarà pronto aggiustate di sale e pepe e procedete alla composizione delle lasagne. Prendete una teglia da lasagna grande 30x20 cm e imburrate il fondo. Aggiungete uno strato sottile di besciamella e uno di ragù. Posizionate quindi la prima sfoglia aggiungete uno strato di besciamella e uno di ragù. Aggiungete il parmiggiano grattuggiato e posizionate sopra un'altra sfoglia di pasta. Aggiungete ancora uno strato di besciamella e uno di ragù, unite il formaggio grattugiato e proseguite così fino a realizzare 5 strati. Dopo aver posizionato l'ultima sfoglia aggiungete il ragù in modo da coprire interamente la pasta. Spolverizzate con il formaggio grattugiato, aggiungete dei ciuffetti di burro e cuocete in forno statico preriscaldato a 170° per 40 minuti. Le lasagne alla bolognese sono pronte per essere servite.",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 8,
+      "title": "Spaghetti alle Vongole",
+      "body": "La ricetta degli spagheti alle vongole è uno dei più grandi classici della cucina italiana. Si tratta di una tradizione campana amata ovunque!",
+      "img1": "https://www.giallozafferano.it/images/242-24236/Spaghetti-alle-vongole_450x300_sp.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti grossi",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Vongole",
+          "quantita": "1kg"
+        },
+        {
+          "id": 3,
+          "nome": "Aglio",
+          "quantita": "1 spicchio"
+        },
+        {
+          "id": 4,
+          "nome": "Prezzemolo",
+          "quantita": " 1 mazzetto"
+        },
+        {
+          "id": 5,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 6,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Sale grosso per le vongole",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare gli spaghetti alle vongole, cominciate dalla pulizia. Assicuratevi che non ci siano gusci rotti o vuoti, andranno scartati. Passate poi a batterle contro il lavandino, o eventualmente su un tagliere. Questa operazione è importante per verificare che non ci sia sabbia all'interno: le bivalve sane resteranno chiuse, quelle piene di sabbia invece si apriranno. Poi ponete le vongole in una ciotola e sciacquatele. Aggiungete il sale grosso. Lasciate in ammollo le vongole per 2-3 ore. Trascorso il tempo le vongole avranno spurgato eventuali residui di sabbia, scolatele e sciacquatele. In un tegame mettete a scaldare un po' d'olio . Poi aggiungete uno spicchio d'aglio e lasciatelo imbiondire. Tuffate quindi le vongole nel tegame caldo. Chiudete con il coperchio e lasciate cuocere per qualche minuto a fiamma alta. Le vongole si apriranno con il calore, quindi agitate di tanto in tanto il tegame finché non si saranno completamente dischiuse. Nel frattempo tritate finemente il prezzemolo. Non appena tutte le vongole saranno aperte spegnete subito il fuoco, altrimenti le vongole cuoceranno troppo. Cuocete gli spaghetti in abbondante acqua leggermente salata, per metà del tempo di cottura indicato sulla confezione. Nel frattempo filtrate le vongole, posizionando una ciotola al di sotto e ricordandovi di eliminare l'aglio. In questo modo raccoglierete l'acqua di cottura delle vongole nella ciotola. Trasferitela nel tegame dove avevate cotto le vongole e non appena gli spaghetti saranno pronti scolateli, tenendo da parte l'acqua di cottura. Trasferiteli nel tegame con il condimento. Aggiungete un mestolo di acqua di cottura, regolate di pepe e terminate la cottura degli spaghetti, aggiungendo altra acqua al bisogno. Quando saranno pronti aggiungete le vongole. Unite anche il prezzemolo, saltate brevemente e servite subito i vostri spaghetti con le vongole.",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 9,
+      "title": "Spaghetti Cacio e Pepe",
+      "body": "La ricetta degli spaghetti cacio e pepe è uno dei capi saldi della cucina tipica romana: pochi ingredienti e un trucchetto per un risultato gradito!",
+      "img1": "https://www.giallozafferano.it/images/219-21989/Spaghetti-Cacio-e-Pepe_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Pecorino romano stagionatura media, da grattuggiare",
+          "quantita": "200g"
+        },
+        {
+          "id": 3,
+          "nome": "Pepe nero in grani",
+          "quantita": "5g"
+        }
+      ],
+      "ricetta": "Per preparare gli spaghetti cacio e pepe per prima cosa mettete sul fuoco una pentola con l’acqua per cuocere la pasta: riempitela con circa metà dell’acqua che usate di solito, in questo modo sarà più ricca di amido. Nel frattempo grattugiate il Pecorino romano e trasferitelo quasi tutto in una ciotola, tenendone un po’ da parte per l’impiattamento. Quando l’acqua sarà arrivata a bollore, salate moderatamente e tuffate gli spaghetti. Intanto pestate i grani di pepe con un batticarne (oppure usate un macinino lasciandolo piuttosto lento in modo da avere anche pezzetti più grandi di pepe). Versate il pepe in un’ampia padella antiaderente e tostatelo a fuoco dolce, mescolando con un mestolo di legno. Sfumate con un paio di mestoli dell’acqua di cottura della pasta. Continuate a mescolare a fuoco dolce. Scolate gli spaghetti 2-3 minuti prima rispetto al tempo indicato sulla confezione e trasferiteli nella padella, avendo cura di conservare l’acqua di cottura. Terminate la cottura degli spaghetti in padella, risottandoli, aggiungendo quindi acqua calda al bisogno e rimestando continuamente con le pinze. Aspettate che il fondo della padella sia quasi asciutto prima di aggiungere altra acqua. Potete preparare la crema di Pecorino (non iniziate prima perché tenderebbe a rapprendersi o a risultare troppo fredda rispetto alla temperatura della pasta): versate un mestolo di acqua di cottura calda nella ciotola con il Pecorino grattugiato, poi mescolate energicamente con una frusta a mano. La consistenza che dovrete ottenere è più pastosa che cremosa, non preoccupatevi se sarà molto asciutta. Qualora una volta pronta la crema la pasta non dovesse essere pronta per la mantecatura, ponete brevemente la ciotola sulla pentola con l’acqua calda continuando a mescolare con la frusta, così da avere la crema a una temperatura simile a quella della pasta. Quando gli spaghetti saranno giunti a cottura, spegnete il fuoco e unite la crema di Pecorino, rimestando di continuo con le pinze Per la cremosità ideale regolatevi aggiungendo più Pecorino oppure poca acqua di cottura al bisogno. Servite i vostri spaghetti cacio e pepe spolverizzando con il restante Pecorino grattugiato e altro pepe macinato al momento a piacere!",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 10,
+      "title": "Spaghetti alla puttanesca",
+      "body": "Gli spaghetti alla puttanesca sono un gustoso primo piatto con pomodoro, olive, alici e capperi, faciel e veloce da preparare! Scopri dosi e ricetta",
+      "img1": "https://www.giallozafferano.it/images/239-23911/Spaghetti-alla-puttanesca_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Pomodori pelati",
+          "quantita": "800g"
+        },
+        {
+          "id": 3,
+          "nome": "Acciughe sott'olio",
+          "quantita": "25g"
+        },
+        {
+          "id": 4,
+          "nome": "Capperi sotto sale",
+          "quantita": "10g"
+        },
+        {
+          "id": 5,
+          "nome": "Prezzemolo",
+          "quantita": "1 mazzetto"
+        },
+        {
+          "id": 6,
+          "nome": "Olive di Gaeta",
+          "quantita": "100g"
+        },
+        {
+          "id": 7,
+          "nome": "Aglio",
+          "quantita": "3 spicchi"
+        },
+        {
+          "id": 8,
+          "nome": "Peperoncino secco",
+          "quantita": "2g"
+        },
+        {
+          "id": 9,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "30g"
+        },
+        {
+          "id": 10,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per realizzare la puttanesca per prima cosa sciacquate sotto i capperi l’acqua corrente per eliminare il sale in eccesso, poi asciugali e tritali grossolanamente al coltello. Prendete le olive di gaeta denocciolate e schiacciatele con la lama del coltello. Lavate, asciugate e tritate il prezzemolo. Mettete sul fuoco una pentola colma di acqua da salare a bollore per cuocere la pasta. In una padella ampia versate l’olio, gli spicchi d’aglio sbucciati interi, il peperoncino secco tritato e le acciughe. Unite anche i capperi dissalati. Rosolate a fuoco medio per 5 minuti mescolando spesso, così le acciughe si scioglieranno e si sprigioneranno tutti gli aromi. A questo punto versate i pelati leggermente schiacciati, mescolate con un cucchiaio e cuocete per altri 10 minuti a fuoco medio. Intanto cuocete gli spaghetti al dente. Quando il sugo sarà pronto, rimuovete gli spicchi d’aglio e aggiungete le olive schiacciate. Aromatizzate il sugo con il prezzemolo fresco tritato. Quando la pasta sarà al dente, scolatela direttamente in padella e saltatela per mezzo minuto, giusto il tempo di fare amalgamare tutti i sapori. Gli spaghetti alla puttanesca sono pronti da servire ben caldi!",
+      "categoria": "Primi piatti"
+    }
+  ],
+  "secondiPiatti": [
+    {
+      "id": 11,
+      "title": "Polpette al sugo",
+      "body": "Una ricetta classica amata dai grandi e dai piccini, le polpette al sugo. Un secondo piatto molto gustoso, cotto in un sugo in cui fare la scarpetta.",
+      "img1": "https://www.giallozafferano.it/images/241-24154/Polpette-al-sugo_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Manzo (carne macinata)",
+          "quantita": "220g"
+        },
+        {
+          "id": 2,
+          "nome": "Salsiccia",
+          "quantita": "165g"
+        },
+        {
+          "id": 3,
+          "nome": "Pane raffermo mollica",
+          "quantita": "30g"
+        },
+        {
+          "id": 4,
+          "nome": "Parmiggiano reggiano Dop grattuggiato",
+          "quantita": "25g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Prezzemolo tritato",
+          "quantita": "1 cucchiaio"
+        },
+        {
+          "id": 7,
+          "nome": "Origano secco",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 8,
+          "nome": "Noce moscata grattuggiata",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 10,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 11,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 12,
+          "nome": "Passata di pomodoro",
+          "quantita": "350g"
+        },
+        {
+          "id": 13,
+          "nome": "Acqua",
+          "quantita": "50g"
+        },
+        {
+          "id": 14,
+          "nome": "Sale fino",
+          "quantita": "5g"
+        },
+        {
+          "id": 15,
+          "nome": "Origano secco",
+          "quantita": "q.b"
+        },
+        {
+          "id": 16,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le polpette al sugo iniziate con l’impasto: tagliate la mollica in pezzi e versatela in un mixer dotato di lame. Tritate il tutto fin quando la mollica non sarà ridotta in briciole. Prendete le salsicce, incidetele delicatamente nel senso della lunghezza e infine privatele del budello. Con la lama di un coltello o con una forchetta schiacciate la carne. Versate in una ciotola capiente la salsiccia e la carne macinata. Aggiungete l'origano, un pizzico di noce moscata grattugiata 8 ed il prezzemolo tritato. Infine unite il Parmigiano grattugiato e la mollica che avete tritato precedentemente. Versate anche l'uovo e iniziate ad impastare con le mani. Aggiustate di sale e di pepe, poi continuate ad impastare sino ad ottenere un composto omogeneo. Con l’impasto ottenuto andate a formare delle sfere del peso di 20 grammi l’una, prelevando un pezzetto di impasto e amalgamandolo con entrambe le mani: con le nostre dosi dovrete ottenere 24 polpettine. Non appena tutte le polpette saranno pronte, fate scaldare l’olio in una pentola antiaderente e, quando l'olio sarà ben caldo, adagiate le polpette, lasciandole cuocere da entrambe i lati per un paio di minuti. Versate la polpa di pomodoro. Aggiungete anche l'acqua, aggiustate di sale, aromatizzate con pepe e proseguite la cottura abbassando la fiamma per 15-20 minuti. Una volta pronte, aromatizzate con origano secco e potrete gustare le vostre polpette al sugo ancora fumanti!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 12,
+      "title": "Gateau di patate",
+      "body": "Come creare la croccante crosta del gateau di patate? Lo Chef Roberto di Pino vi guida nella realizzazione di questo piatto tradizionale!",
+      "img1": "https://www.giallozafferano.it/images/165-16591/Gateau-di-patate_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Patate a pasta gialla",
+          "quantita": "500g"
+        },
+        {
+          "id": 2,
+          "nome": "Fiordilatte",
+          "quantita": "100g"
+        },
+        {
+          "id": 3,
+          "nome": "Salame napoletano",
+          "quantita": "50g"
+        },
+        {
+          "id": 4,
+          "nome": "Prosciutto cotto in una fetta spessa",
+          "quantita": "50g"
+        },
+        {
+          "id": 5,
+          "nome": "Parmiggiano Reggiano DOP (24 mesi) grattugiato",
+          "quantita": "30g"
+        },
+        {
+          "id": 6,
+          "nome": "Uova",
+          "quantita": "2"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare il gateau di patate cominciate lessando queste ultime. Per farlo sciacquatele e versatele in una pentola capiente coprendo con abbondante acqua fredda. Trasferite la pentola sul fuoco e, non appena l’acqua sarà in ebollizione, contate circa 30-40 minuti, a seconda della grandezza delle patate. Fate la prova forchetta per assicurarvi che siano effettivamente cotte: se i rebbi arrivano facilmente al centro dei tuberi allora sono pronti. Scolate le patate e cominciate a sbucciarle mentre sono ancora calde, aiutatevi con un coltellino per non scottarvi. Infine schiacciatele subito in un recipiente: le patate quando sono calde si disfano con più semplicità  e non presenteranno grumi. Nel frattempo tagliate la mozzarella a cubetti e sistematela in un colino per strizzarla, in questo modo scolerà del siero in eccesso. Potete in alternativa strizzarla aiutandovi con un canovaccio pulito. Tagliate il salame tipo Napoli a cubetti di circa 1 cm, fate lo stesso anche con la fetta di prosciutto cotto. A questo punto riprendete le patate appena schiacciate e aggiungete le uova, una spolverata di pepe, il sale, un filo d'olio e il Parmiggiano grattugiato. MEscolate gli ingredienti e quanod il composto sarà ben amalgamato potete unire il prosciutto e il salame tipo Napoli a cubetti, poi versate nella ciotola anche la mozzarella scolata e amalgamate tutti gli ingredienti. A questo punto oliate una pirofila quadrata 20x20 cm e spolverizzate con il pangrattato. Muovete la teglia per assicuarci che il pan grattato si distribuisca su tutta la superficie. Poi versate il composto aiutandovi con una spatola per livellarlo. Spolverizzate la superficie con il pangrattato e il PArmiggiano, condite ancora con un filo d'olio e cuocete in forno statico preriscaldato a 180 gradi per circa 30 minuti. Una volta pronto, il vostro gateau di patate sarà fumanete ed invitante per essere servito!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 13,
+      "title": "Parmiggiana di melanzane",
+      "body": "La parmiggiana di melanzane è una delle ricette italiane più famose e amate, prepara insieme a noi questo meraviglioso secondo piatto vegetariano!",
+      "img1": "https://www.giallozafferano.it/images/234-23446/Parmigiana-di-melanzane_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Melanzane ovali nere",
+          "quantita": "1,7kg"
+        },
+        {
+          "id": 2,
+          "nome": "Passata di pomodoro",
+          "quantita": "1kg"
+        },
+        {
+          "id": 3,
+          "nome": "Fiordilatte",
+          "quantita": "500g"
+        },
+        {
+          "id": 4,
+          "nome": "Parmiggiano Reggiano DOP (da grattuggiare)",
+          "quantita": "150g"
+        },
+        {
+          "id": 5,
+          "nome": "Cipolle dorate",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Basilico",
+          "quantita": "q.b"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare la parmiggiana di melanzane cominciate dal sugo. Pulite e tritate la cipolla, versate in un tegame dove avrete scaldato l'olio (che copra il fondo). Lasciatela rosolare per un paio di minuti mescolando spesso per non farla bruciare, poi unite la passata di pomodoro. Regolate di sale e versate le foglie di basilico, sciacquate il recipiente con poca acqua e versatela in pentola quindi lasciate cuocere a fuoco dolce per 45-50 minuti. Nel frattempo tagliate a cubetti il fiordilatte tenendone da parte un pezzo che servirà alla fine. Mettete a scolare i cubetti in uno scolapasta messo in una ciotola, coprite con pellicola e mettete da parte: questo procedimento serve a far colare il siero in eccesso. A questo punto passate alle melanzane, pulitele e spuntatele. Affettate per il senso della lunghezza ottenendo delle fette spesse di 4-5 mm. Quando avrete finito friggete le melanzane in olio già caldo 170° immergendo pochi pezzi alla volta, non appena saranno leggermente dorate scolate su vassoio con carta assorbente. Quando sul vassoio sarà finito lo spazio mettete altra carta assorbente e mettete a scolare le altre melanzane fritte. In ultimo passate alla composizione, iniziate versando un po’ di sugo in una pirofila da 20x30 cm. Formate il primo strato disponendo le fette di melanzane, versate il sugo di pomodoro, spalmatelo e distribuite dei cubetti di fiordilatte. Spolverizzate con il Parmigiano grattugiato e delle foglie di basilico. Ricominciate aggiungendo il sugo di pomodoro e le melanzane, che andranno adagiate in senso contrario. E poi ancora i formaggi e le foglie di basilico. Andate avanti così fino ad arrivare all'ultimo strato di melanzane e che andrete a condire, ancora una volta, con sugo e il fiordilatte che avete tenuto da parte, da spezzettare a mano. Finite con il Parmigiano grattugiato e infornate in forno statico, già caldo a 200°, per circa 30 minuti. Trascorso il tempo di cottura lasciate riposare per 15-20 minuti prima di servire la vostra parmigiana di melanzane.",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 14,
+      "title": "Fileto al pepe verde",
+      "body": "Il filetto al pepe verde è un classico secondo di carne dal gusto avvolgente grazie alla cremosa salsa a base id panna e senape con cui viene servito.",
+      "img1": "https://www.giallozafferano.it/images/184-18454/Filetto-al-pepe-verde_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Filetto di manzo (4 filetti)",
+          "quantita": "1kg"
+        },
+        {
+          "id": 2,
+          "nome": "Pepe verde in grani in salamoia",
+          "quantita": "20g"
+        },
+        {
+          "id": 3,
+          "nome": "Panna fresca liquida",
+          "quantita": "80g"
+        },
+        {
+          "id": 4,
+          "nome": "Senape di Digione",
+          "quantita": "40g"
+        },
+        {
+          "id": 5,
+          "nome": "Brodo di carne",
+          "quantita": "100g"
+        },
+        {
+          "id": 6,
+          "nome": "Brandy",
+          "quantita": "25g"
+        },
+        {
+          "id": 7,
+          "nome": "Farina 00",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Burro chiarificato",
+          "quantita": "20g"
+        },
+        {
+          "id": 9,
+          "nome": "sale",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per realizzare il filetto al pepe verde, per prima cosa preparate il brodo di carne seguendo le indicazioni della nostra ricetta. Nel frattempo rimuovete tutti gli ingredienti dal frigorifero per assicurarvi che siano a temperatura ambiente, soprattutto la carne: in caso contrario, rischierebbe di rimanere fredda e cruda al cuore. Prendete dello spago da cucina e legate i filetti in modo che mantengano meglio la forma durante la cottura: tagliate un pezzo abbastanza lungo di spago, piegatelo a metà e avvolgetelo intorno al filetto, poi fate passare le due estremità dello spago che tenete in una mano all’interno dell’asola che avete nell’altra mano. A questo punto separate le due estremità e usatele per fare un altro giro intorno al filetto, dopodiché fermate lo spago con un nodino. Dopo averli legati, versate la farina in un contenitore e adagiate all’interno i filetti avendo cura di infarinare soltanto il lato superiore e inferiore. Ora prendete una padella, aggiungete il burro chiarificato e lasciatelo sciogliere a fuoco vivace. Quando il burro sarà ben caldo, posizionate i filetti nella padella, scottateli per qualche istante sempre a fuoco vivace, poi abbassate leggermente la fiamma e lasciateli cuocere per 1-2 minuti senza toccarli in modo che i primi 6-7 mm del filetto diventino dorati. A questo punto alzate di nuovo la fiamma e girate i filetti sull’altro lato usando un paio di pinze o due cucchiai di legno, senza bucare la carne. Scottate ancora per qualche secondo, poi lasciate cuocere per altri 1-2 minuti a fiamma più bassa. Infine girate i filetti sul fianco e alzando di nuovo la fiamma rotolateli nel burro, in modo che l’intera superficie risulti sigillata. A questo punto sfumate con il brandy, facendo attenzione agli eventuali schizzi di burro. Inclinate subito la padella per flambare il brandy, oppure utilizzate un accendino, e lasciate evaporare l’alcool. Non appena la fiamma si sarà estinta, abbassate il fuoco e aggiungete il pepe verde, che avrete precedentemente scolato dalla salamoia, un pizzico di sale e la senape. Fate ruotare la padella per distribuire il condimento, poi versate all’interno 50 g di panna fresca e 50 g di brodo e alzate nuovamente la fiamma. Muovete ancora la padella per mescolare il tutto e proseguite la cottura per un paio di minuti, nappando continuamente la superficie della carne con la crema utilizzando un cucchiaio. Poi girateli e fate la stessa cosa anche dall'altro lato. Per una cottura perfettamente al sangue, toccate la superficie del filetto con un dito per assicurarvi che sia morbido. Se invece preferite la carne un po' più cotta, prolungate leggermente la cottura aggiungendo eventualmente un po' di brodo, Una volta che i filetti saranno cotti, trasferiteli sui piatti da portata, rimuovete lo spago e lasciateli riposare. Nel frattempo riprendete la padella con il fondo di cottura, aggiungete i restanti 50 g di brodo e i 30 g di panna fresca, aggiustate eventualmente di sale e fate addensare la salsa a fuoco vivace per 1-2 minuti muovendo la padella. Riconoscerete la giusta consistenza quando, tracciando una linea con il cucchiaio la crema ai due lati si ricongiungerà lentamente. A questo punto riprendete il piatto con il filetto, cospargete con un cucchiaio di crema e servite subito il vostro filetto al pepe verde!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 15,
+      "title": "Polpette di zucca",
+      "body": "Le polpette di zucca, fritte o al forno, sono uno sfizioso finger food autunnale che nasconde all'interno un gustoso ripieno di formaggio filante.",
+      "img1": "https://www.giallozafferano.it/images/238-23873/Polpette-di-zucca_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Zucca violina (già pulita)",
+          "quantita": "500g"
+        },
+        {
+          "id": 2,
+          "nome": "Pangrattato",
+          "quantita": "100g"
+        },
+        {
+          "id": 3,
+          "nome": "Parmiggiano Reggiano DOP da grattuggiare",
+          "quantita": "100g"
+        },
+        {
+          "id": 4,
+          "nome": "Scamorza affumicata",
+          "quantita": "50g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Salvia",
+          "quantita": "q.b"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le polpette di zucca, per prima cosa occupatevi della zucca (noi abbiamo usato la varietà violina, ma andranno bene anche le altre qualità, come la delica): dividetela a metà e rimuovete la buccia, poi tagliatela a fette di mezzo cm di spessore. Dovrete ottenere 500 g di polpa di zucca. Sistemate le fette di zucca su una leccarda foderata con carta forno, condite con un filo d’olio e un pizzico di sale e cuocete in forno statico preriscaldato a 200° per 30 minuti. Nel frattempo, tritate finemente le foglie di salvia e riducete a cubetti la scamorza affumicata. Quando la zucca sarà cotta, sfornatela e trasferitela in una ciotola. Schiacciate la zucca con una forchetta, poi aggiungete il apngrattato e il Parmiggiano grattugiato. Uniche anche l'uovo e la salvia tritata. Impastate il composto con le mani per amalgamare bene tutti gli ingredienti, poi pepate a picere. Col composto ottenuto formate delle palline di circa 40 g l’una, inserendo al centro qualche cubetto di scamorza affumicata. Richiudete la polpetta in modo da sigillare il formaggio all’interno e lavoratela con le mani per darle una forma tonda. Proseguite allo stesso modo con tutte le altre, ne otterrete circa 16 con queste dosi. A questo punto portate l’olio per la frittura a una temperatura di 170° (è preferibile misurare con un termometro da cucina) e passate ogni polpetta nel pangrattato. Immergetele nell’olio a temperatura per un paio di minuti, affinché il formaggio all’interno si sciolga. Ricordatevi di friggere poche polpette per volta per evitare che la temperatura dell’olio si abbassi eccessivamente. Quando saranno ben dorate, scolatele su un foglio di carta assorbente per eliminare l’olio in eccesso. Le vostre polpette di zucca sono pronte per essere servite ancora calde e filanti!",
+      "categoria": "Secondi piatti"
+    }
+  ],
+  "dolci": [
+    {
+      "id": 16,
+      "title": "Tiramisù",
+      "body": "Il Tiramisù classi è il dessert italiano per eccellenza, uno dei più gustosi e conosciuti al mondo. Crema al mascarpone e savoiardi al caffè.",
+      "img1": "https://www.giallozafferano.it/images/237-23742/Tiramisu_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Mascarpone",
+          "quantita": "750g"
+        },
+        {
+          "id": 2,
+          "nome": "Uova (fresche)",
+          "quantita": "260g"
+        },
+        {
+          "id": 3,
+          "nome": "Savoiardi",
+          "quantita": "250g"
+        },
+        {
+          "id": 4,
+          "nome": "Zucchero",
+          "quantita": "120g"
+        },
+        {
+          "id": 5,
+          "nome": "Caffè (della moka, zucchero a piacere)",
+          "quantita": "300g"
+        }
+      ],
+      "ricetta": "Per preparare il tiramisù preparate il caffé con la moka per ottenerne 300 g, poi zuccherate a piacere (noi abbiamo messo un cucchiaino) e lasciatelo raffreddare in una ciotolina bassa e ampia. Separate le uova dividendo gli albumi dai tuorli, ricordando che per montare bene gli albumi non dovranno presentare alcuna traccia di tuorlo. Montate i tuorli con le fruste elettriche, versando solo metà dose di zucchero. Non appena il composto sarà diventato chiaro e spumoso, e con le fruste ancora in funzione, potrete aggiungere il mascarpone, poco alla volta. Incorporato tutto il formaggio avrete ottenuto una crema densa e compatta; tenetela da parte. Pulite molto bene le fruste e passate a montare gli albumi. Quando saranno schiumosi versate il restante zucchero un po’ alla volta. Dovrete montarli a neve ben ferma; otterrete questo risultato quando rovesciando la ciotola la massa non si muoverà. Prendete una cucchiaiata di albumi e versatela nella ciotola con la crema di mascarpone 8 e mescolate energicamente con una spatola, così stempererete il composto. Dopodiché procedete ad aggiungere la restante parte di albumi, poco alla volta mescolando molto delicatamente dal basso verso l'alto. La crema al mascarpone è ora pronta. Distribuitene una generosa cucchiaiata sul fondo di una pirofila di vetro, grande 30x19,5cm e distribuite per bene su tutta la base. Inzuppate per pochi istanti i savoiardi nel caffè freddo prima da un lato e poi dall’altro. Man mano distribuite i savoiardi imbevuti nella pirofila, cercando di sistemarli tutti in un verso, così da ottenere un primo strato di biscotti. Aggiungete altra crema al mascarpone e livellatela in modo da coprirli completamente. E continuate a distribuire i savoiardi imbevuti nel caffè, poi realizzate un'altro strato di crema e livellate bene la superficie. Trasferite la crema rimasta in un sac-à-poche con beccuccio liscio di diametro 12 mm e realizzare dei ciuffetti per tutta la dimensione della teglia. Spolverizzatela con del cacao amaro in polvere e lasciate rassodare in frigorifero per un paio d’ore. Il vostro tiramisù è pronto per essere gustato!",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 17,
+      "title": "Pancake allo sciroppo d'acero",
+      "body": "Preparare i pancake in casa è molto semplice, con pochi ingredienti il gioco è fatto: soffici frittelle da guarnire a piacere, scopri dosi e ricetta!",
+      "img1": "https://www.giallozafferano.it/images/243-24387/Pancakes-allo-sciroppo-d-acero_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Farina 00",
+          "quantita": "125g"
+        },
+        {
+          "id": 2,
+          "nome": "Latte intero (fresco)",
+          "quantita": "200g"
+        },
+        {
+          "id": 3,
+          "nome": "Butto",
+          "quantita": "25g"
+        },
+        {
+          "id": 4,
+          "nome": "Zucchero",
+          "quantita": "15g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova (medie)",
+          "quantita": "2"
+        },
+        {
+          "id": 6,
+          "nome": "Lievito in polvere per dolci",
+          "quantita": "6g"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        }
+      ],
+      "ricetta": "Per realizzare i pancake per prima cosa fate sciogliere il burro a fuoco bassissimo, poi lasciate intiepidire. Intanto separate gli albumi dai tuorli: versate i tuorli in una ciotola e sbatteteli con una frusta a mano, poi unite il burro fuso a temperatura ambiente e il latte a filo, continuando sempre a mescolare con la frusta. Aggiungete anche un pizzico di sale e montate il composto finché non risulterà chiaro. Unite il lievito alla farina e setacciate tutto nella ciotola con il composto di turli. Mescolate ancora per incorporare le polveri. Ora montate gli albumi che avete tenuto da parte, versando poco alla volta lo zucchero. Quando saranno bianchi e spumosi incorporateli delicatamente al composto di tuorli, con movimenti dal basso verso l'alto, per evitare di smontarli. Scaldate a fuoco medio una crepiera o una padella antiaderente (meglio se a fondo spesso) e ungetela con pochissimo burro aiutandovi con della carta da cucina. Versate al centro del pentolino un mestolino di composto. Dopo circa 2 minuti inizieranno a comparire delle bollicine in superficie, quindi girate il pancake con una spatolina e fate dorare anche l'altro lato per circa mezzo minuto. Proseguite così con il resto dell'impasto e disponete man mano i pancake su un piatto da portata, impilandoli uno sull'altro; con queste dosi otterrete all'incirca 12 pancake. Servite i vostri pancake allo sciroppo d'acero ancora caldi!",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 18,
+      "title": "Tortino al cioccolato con cuore fondente",
+      "body": "Il torntino di cioccolato con cuore fondente è un dessert facile e veloce che nasconde un cuore morbido, calso e avvolgente...scopri dosi e ricetta!",
+      "img1": "https://www.giallozafferano.it/images/235-23566/Tortino-di-cioccolato-con-cuore-fondente_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Cioccolato fondente al 70%",
+          "quantita": "110g"
+        },
+        {
+          "id": 2,
+          "nome": "Burro a temperatura ambiente",
+          "quantita": "110g"
+        },
+        {
+          "id": 3,
+          "nome": "Uova (2 grandi)",
+          "quantita": "120g"
+        },
+        {
+          "id": 4,
+          "nome": "Zucchero",
+          "quantita": "40g"
+        },
+        {
+          "id": 5,
+          "nome": "Farina 00",
+          "quantita": "25g"
+        }
+      ],
+      "ricetta": "Per realizzare il tortino di cioccolato con cuore fondente per prima cosa sciogliete il cioccolato a bagnomaria insieme al burro, mescolando continuamente. Una volta sciolto, lasciatelo raffreddare fino alla temperatura di 30°. Se non avete un termometro potete lasciarlo a temperatura ambiente per circa 20-25 minuti. Nel frattempo imburrate e infarinate 4 stampini di alluminio. Quando avrà raggiunto i 30°, trasferite il composto di burro e cioccolato in un mixer con lame di acciaio. Mentre il mixer è in funzione unite lo zucchero all’interno e aspettate che sia ben amalgamato, poi versate a filo le uova sbattute. Quando anche le uova saranno state assorbite aggiungete la farina e continuate a frullare per ottenere un composto liscio e omogeneo. Riempite gli stampini con 70 g di composto l’uno, aiutandovi con un sac-à-poche o un cucchiaio; il composto dovrà arrivare a circa due terzi dello stampino. Mettete gli stampini in congelatore per almeno 6 ore, meglio se per una notte intera. Quando i tortini saranno congelati, disponeteli in una teglia e cuocete in forno ventilato preriscaldato a 200° per 7 minuti, sul ripiano medio. Trascorso il tempo di cottura, sformateli delicatamente capovolgendo gli stampini sul piatto, poi spolverizzate con zucchero a velo e servite subito il vostro tortino di cioccolato con cuore fondente!",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 19,
+      "title": "Muffin con goccie di cioccolato",
+      "body": "I muffin con goccie di cioccolato sono dei soffici dolcetti perfetti per fare colazione o merenda, con un gusto delicato e ricco di goloso cioccolato!",
+      "img1": "https://www.giallozafferano.it/images/242-24261/Muffin-con-gocce-di-cioccolato_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Burro (ammorbidito a temperatura dambiente)",
+          "quantita": "125g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina",
+          "quantita": "265g"
+        },
+        {
+          "id": 3,
+          "nome": "Zucchero",
+          "quantita": "135g"
+        },
+        {
+          "id": 4,
+          "nome": "Latte intero (a temperatura ambiente)",
+          "quantita": "135g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova (circa 3 medie, a temperatura ambiente)",
+          "quantita": "110g"
+        },
+        {
+          "id": 6,
+          "nome": "Bicarboanto raso",
+          "quantita": "1 chicchiano"
+        },
+        {
+          "id": 7,
+          "nome": "Bacca di vaniglia",
+          "quantita": "1"
+        },
+        {
+          "id": 8,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 9,
+          "nome": "Lievito in polvere per dolci",
+          "quantita": "10g"
+        }
+      ],
+      "ricetta": "Per preparare i muffin con gocce di cioccolato il burro va lasciato almeno 1 h fuori dal frigo, per farlo ammorbidire.  Unite al burro morbido lo zucchero, lavorate con le fruste elettriche fino ad ottenere un composto spumoso e cremoso. Dopodiché incidete una bacca di vaniglia e raschiate i semi utilizzando il dorso di un coltello. Versate questi ultimi nella ciotola con burro e zucchero. Azionate nuovamente le fruste e aggiungete le uova, anche queste a temperatura ambiente, una alla volta in questo modo gli ingredienti non si slegheranno. Ora setacciate la farina, il lievito per dolci e il bicarbonato direttamente nella ciotola con il composto. Aggiungete anche il pizzico di sale e azionate nuovamente le fruste per inglobate le polveri. Noterete che l’impasto diventerà più consistente quindi stemperatelo con il latte a temperatura ambiente versato a filo. A questo punto il composto sarà morbido e compatto. Unite 80 g di gocce di cioccolato e mescolate con una spatola per inglobarle dopodiché trasferite il composto in una sàc-a-poche usa e getta senza bocchetta in questo modo potrete effettuare un lavoro più pulito altrimenti utilizzate pure un cucchiaio. Sistemate i pirottini di carta in una pirofila da muffin e riempiteli per 2/3, quindi lasciando meno di un centimetro dalla superficie. Ogni muffin dovrà pesare all’incirca 70 g. Sulle tortine versate le gocce di cioccolato rimanenti e cuocete in forno preriscaldato a 180° per 18-20 minuti in modalità statica. A questo punto i vostri muffin con gocce di cioccolato sono pronti per essere gustati.",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 20,
+      "title": "Crepes alla Nutella",
+      "body": "Come fare una crepes alla Nutella ad arte? Scoprite i segreti per questa tentazione di gustare a merenda, per dessert o come spuntino di mezzanotte.",
+      "img1": "https://www.giallozafferano.it/images/242-24242/Crepe-alla-Nutella_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Uova medie",
+          "quantita": "3"
+        },
+        {
+          "id": 2,
+          "nome": "Farina 00",
+          "quantita": "250g"
+        },
+        {
+          "id": 3,
+          "nome": "Latte intero",
+          "quantita": "500ml"
+        },
+        {
+          "id": 4,
+          "nome": "Burro",
+          "quantita": "40g"
+        }
+      ],
+      "ricetta": "Per preparare le crepe dolci e salate iniziate sciogliendo dolcemente il burro in un pentolino. Lasciatelo intiepidire e nel frattempo rompete le uova in una ciotola dai bordi alti. Mescolate con una frusta e unite il latte. Continuate a mescolare sino ad ottenere un composto omogeneo. Aggiungete ora il burro tiepido e mescolate ancora. Posizionate un colino sul recipiente e poi setacciate la farina nella ciotola, (per comodità potete anche aggiungerla in due tempi e mescolare così da evitare la formazione di grumi). Poi con le fruste mescolate energicamente per assorbire la farina. Continuate a mescolare fino ad ottenere un composto omogeneo, vellutato e privo di grumi. A questo punto coprite la ciotola con della pellicola alimentare e lasciate riposare per almeno 30 minuti in frigorifero. Trascorso il tempo mescolate l’impasto per farlo rinvenire e poi scaldate una crepiera da 18 cm (o in alternativa una padella antiaderente sempre della stessa base) ed ungetela con una noce di burro. Una volta a temperatura versate un mestolo di impasto sufficiente a ricoprire la superficie della padella: potete aiutarvi con l'apposito stendi pastella per crepe oppure ruotare la padella fino a distribuire il composto uniformemente (fate attenzione a non spanderlo tutto sui bordi per evitare che al centro non rimanga pastella sufficiente a creare una crepe dalla superficie uniforme); si consiglia di eseguire queste operazioni molto in fretta, poiché la pastella cuocerà rapidamente. Trascorso circa 1 minuto a fuoco medio-basso, dovreste notare una leggera doratura, i bordi tenderanno a staccarsi perciò potrete girare la prima crepe aiutandovi con una paletta. Cuocete anche l'altro lato per 1 minuto circa, aspettando che prenda colore. Una volta cotta la prima, trasferitela su un piatto da portata o su di un tagliere. Ripetete questa operazione fino a finire l’impasto, ungendo di volta in volta la crepiera, dovreste ottenere così 14 crepe del diametro di 18 cm: impilate ogni crepe una sopra l’altra così resteranno morbide. Utilizzando un cucchiaio trasferite al centro centro di ogni crepe circa 30 g di Nutella, poi con il dorso del cucchiaio spargetela su tutta la superficie. Richiudete ora a metà la crepe in modo da ottenere una mezzaluna. Richiudete ancora a metà, in modo da ottenere un trinagolo. Trasferite su un piatto, spolverizzate con zucchero a velo e servite.",
+      "categoria": "Dolci"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Focaccia alla genovese",
+      "body": "La focaccia alla genovese, in dialetto fugassa, è una specialità tipica della cucina ligure ed è diventata un presidio Slow Food.",
+      "img1": "https://www.giallozafferano.it/images/224-22468/Focaccia-fugassa-alla-genovese_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Farina 00",
+          "quantita": "400g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina Manitoba",
+          "quantita": "250g"
+        },
+        {
+          "id": 3,
+          "nome": "Acqua (a temperatura ambiente)",
+          "quantita": "335g"
+        },
+        {
+          "id": 4,
+          "nome": "Sale fino",
+          "quantita": "13g"
+        },
+        {
+          "id": 5,
+          "nome": "Malto",
+          "quantita": "10g"
+        },
+        {
+          "id": 6,
+          "nome": "Lievido di birra fresco",
+          "quantita": "18g"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extra vergine d'oliva",
+          "quantita": "30g"
+        }
+      ],
+      "ricetta": "Per preparare la focaccia genovese versate in una ciotola la farina manitoba e la farina 00. Miscelate con una marisa, poi formate un leggero buco al centro e versate quasi tuta l'acqua. Mescolate ancora per far amalgamare l'acqua, poi unite il malto e il sale tutto insieme. Mescolate, poi versate l'acqua rimasta e lavorate ancora con la marisa fino ad ottenere una pasta omogenea. Una volta che il sale si sarà integrato alla farina potrete aggiungere il lievito di birra sbriciolato. Ancora qualche giro di marisa e l'impasto è pronto per trasferirlo sul piano di lavoro e continuare a lavorare a mano, piuttosto energicamente. Se è rimasta un po' di farina non assorbita, non importa: si assorbirà lavorandola, facendo delle pressioni con il palmo della mano mentre impastate, proprio a 'strappare l'impasto' replicando il movimento della macchina. Dopo pochi minuti, quando vedete che la maglia glutinica prende forma, quindi l'impasto risulta più omogeno e quasi elastico, versate l'olio sull'impasto. Continuate a lavorare sul piano per far assorbire tutto l'olio sempre impastando energicamente. In base al tipo di farina utilizzato, mentre lavorate, potrebbe essere necessario spolverizzare con pochissima farina. In tutto ci vorranno 13-15 minuti, per ottenere un impasto liscio ed omogeneo. Potete coprirlo e lasciarlo riposare per qualche minuto. Quindi togliete il canovaccio. Chiudete l'impasto roteando sul piano, noterete che in pochissimi secondi diventerà liscio. Dividete ;'impasto in due pezzi da 500g, date una forma rettangolare schiacciandolo con le mani, e date una piaga a tre. Per farlo potete ripiegare l'impasto su se stesso, portando un lembo verso l'interno e poi ripiegando ancora, lasciando una linea sotto e arrotolandolo per finire, in modo che la chiusura resti appunto a contatto con il banco di lavoro, leggermente spolverizzato di farina. Ripetete la stessa operazione anche per l'altra metà di impasto. Coprite con un panno e lasciate riposare per circa 30 minuti. Togliete il canovaccio, prendete uno dei due panetti e mantenete l'altro coperto. Ungete la prima teglia 30x40 con 15 g di olio, senza andare negli angoli perchè ci andrà da solo. Posizionate il panetto su un piano infarinato, schiacciatelo con le dita per allargarlo, sempre utilizzando solo indice, medio e anulare quindi 3 dita della mano. Poi passate a stendere l'impasto con un mattarello, girando l'impasto di tanto in tanto in modo da mantenere una forma rettangolare. Passate le mani sotto l'impasto, quindi giratele in modo che il dorso delle mani sollevi l'impasto per adagiarlo senza ledere la pasta sulla teglia fino a ricoprire il 70-80%. Coprite con un panno e lasciate riposare ancora per 20-30 minuti. Nel frattempo ripetete la stessa operazione per il secondo panetto di impasto. A questo punto spolverizzate la focaccia con poca farina, schiacciate bene con la punta delle dita stendendo l'impasto su tutta la teglia, partendo dal perimetro per creare un piccolo bordo. E' importante che l'impasto aderisca bene alla teglia, in questo modo quando verserete sopra la salamoia, non finirà sul fondo. Lisciate il più possibile con il palmo delle mani la superficie, coprite di nuovo e lasciate ripsare per un'ora. A questo punto preparate la salamoia mescolando insieme acqua e sale, fino a che non sarà ben sciolto. Scoprite la focaccia, spolverizzatela con pochissima farina e con le tre dita (indice, medio anulare) imprimete i tipici buchi facendo una bella pressione e spingando verso i bordi: le dita non devono essere perpendicolari all'impasto, ma leggermente inclinate. Dovrete lasciare circa 1 cm tra un buco e l'altro. Quando avrete quasi terminato di realizzare tutti i fori, ruotate la teglia, in questo modo sarà più semplice realizzare tutti i fori anche lungo il bordo rimasto. Ora versate al centro di ogni focaccia 30 g di olio e 90 g di salamoia. Poi spargetela delicatamente con la mano in modo da riempire tutti i buchi. Lasciate lievitare per altri 40-45 minuti, questa volta senza coprirla. Cuocete in forno statico preriscaldato a 230° per 15 minuti (se il forno è molto potente, consigliamo in caso di modificare temperatura, ma non la tempistica. E' bene non cuocere oltre i 15 minuti per non far asciugare troppo la focaccia). Quando la superficie risulterà dorata potrete sfornare la vostra focaccia! Lasciatela intiepidire pochi minuti, tagliatela e servitela!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 2,
+      "title": "Guacamole",
+      "body": "Il guacamole è una salsa messicana a base di avocado ottima per accompagnare nachos e tortillas: sopri ingredienti e ricetta per prepararla a casa!",
+      "img1": "https://www.giallozafferano.it/images/236-23676/Guacamole_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Avocato",
+          "quantita": "500g"
+        },
+        {
+          "id": 2,
+          "nome": "Cipolle bianche",
+          "quantita": "35g"
+        },
+        {
+          "id": 3,
+          "nome": "Succo di limone",
+          "quantita": "35g"
+        },
+        {
+          "id": 4,
+          "nome": "Coriandolo",
+          "quantita": "q.b."
+        },
+        {
+          "id": 5,
+          "nome": "Pomodori ramati",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        }
+      ],
+      "ricetta": "Per preparare il guacamole, per prima cosa mondate e tritate finemente la cipolla, poi tritate anche il coriandolo. Dividete l’avocado a metà ed estraete il nocciolo. Prelevate la polpa con l’aiuto di un cucchiaio e versatela all’interno di un mortaio. Aggiungete il succo di lime e cominciate a pestare fino ad ottenere una crema. Unite anche la cipolla tritata e il coriandolo e pestate ancora per amalgamare il tutto, poi aggiustate di sale. Se vi piace il piccante, a questo punto potete aggiungere del peperoncino fresco o qualche goccia di tabasco. In ultimo riducete il pomodoro a dadini e aggiungetelo sulla salsa. La vostra salsa guacamole è pronta per essere servita!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 3,
+      "title": "Polpettine di tonno e ricotta",
+      "body": "Le polpettine di tonno e ricotta sono ideali da servire come antipasto o secondo: un modo originale e sfizioso per utilizzare il tonno in scatola!",
+      "img1": "https://www.giallozafferano.it/images/198-19827/Polpettine-di-tonno-e-ricotta_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Tonno sott'olio sgocciolato",
+          "quantita": "230g"
+        },
+        {
+          "id": 2,
+          "nome": "Ricotta vaccina",
+          "quantita": "200g"
+        },
+        {
+          "id": 3,
+          "nome": "Acciughe (alici)",
+          "quantita": "20g"
+        },
+        {
+          "id": 4,
+          "nome": "Capperi sotto sale",
+          "quantita": "20g"
+        },
+        {
+          "id": 5,
+          "nome": "Pangrattato",
+          "quantita": "50g"
+        },
+        {
+          "id": 6,
+          "nome": "Prezzemolo da tritare",
+          "quantita": "8g"
+        },
+        {
+          "id": 7,
+          "nome": "Uova medie",
+          "quantita": "2"
+        },
+        {
+          "id": 8,
+          "nome": "Parmiggiano Reggiano DOP",
+          "quantita": "50g"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 10,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le polpettine di tonno e ricotta iniziate dalla preparazione dell'impasto. Unite in una ciotola la ricotta, il parmigiano grattugiato, il tonno sbriciolato e le acciughe sgocciolate. Aggiungete i capperi (preventivamente sciacquati), il prezzemolo tritato, il pangrattato e in ultimo le uova leggermente sbattute, quindi iniziate a mescolare il composto con una forchetta. Miscelate insieme tutti gli ingredienti, aggiungete il sale e il pepe e terminate di impastare con le mani fino ad avere un composto compatto ed omogeneo: se il composto dovesse risultare troppo morbido potete aggiungere ancora un po' di formaggio, in caso contrario potete ammorbidirlo con qualche goccia di latte. A questo punto inumidite leggermente le mani e prelevate delle piccole porzioni di impasto del peso di circa 30 grammi a cui darete la classica forma a polpettina, tonda e leggermente schiacciata. Dopo aver formato tutte le polpette, passatele nel pangrattato e scaldate l'olio di semi in un pentolino fino alla temperatura di 180°. Friggete poche polpettine alla volta: basteranno pochi istanti per farle diventare belle dorate. Quando le polpettine si saranno dorate, scolatele e trasferitele su della carta assorbente da cucina per eliminare l'olio in eccesso. Servite le vostre polpettine di tonno e ricotta ancora calde!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 4,
+      "title": "Panzerotti (calzoni) fritti",
+      "body": "I panzerotti, o calzoni, fritti sono tipici della cucina pugliese, pasta lievitata farcita con mozzarella e pomodoro e infine fritta! Buonissimi!",
+      "img1": "https://www.giallozafferano.it/images/224-22433/Panzerotti-calzoni-fritti_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Farina 00",
+          "quantita": "250g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina manitoba",
+          "quantita": "250g"
+        },
+        {
+          "id": 3,
+          "nome": "Acqua tiepida",
+          "quantita": "285g"
+        },
+        {
+          "id": 4,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "8g"
+        },
+        {
+          "id": 5,
+          "nome": "Lievito di birra fresco",
+          "quantita": "8,5g"
+        },
+        {
+          "id": 6,
+          "nome": "Zucchero",
+          "quantita": "5g"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "10g"
+        },
+        {
+          "id": 8,
+          "nome": "Fiordilatte",
+          "quantita": "250g"
+        },
+        {
+          "id": 9,
+          "nome": "Passata di pomodoro",
+          "quantita": "200g"
+        },
+        {
+          "id": 10,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 11,
+          "nome": "Origano",
+          "quantita": "q.b"
+        },
+        {
+          "id": 12,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare i panzerotti fritti cominciate dall'impasto lievitato. In una ciotola versate la farina 00 e la manitoba, sbriciolate il lievito di birra fresco e aggiungete lo zucchero. Aggiungete metà dell'acqua e iniziate a lavorare con un tarocco. Aggiungete quindi il sale, la restante acqua e lavorate ancora con il tarocco. Unite poi l'olio e iniziate ad impastare con le mani. Non appena l'impasto avrà preso consistenza trasferitelo sul piano e impastate per alcuni minuti finché non sarà liscio e omogeneo. Formate quindi un salsicciotto e stagliatelo in 10 pezzi da 80 g ciascuno. Per formare le palline appiattite una porzione di impasto sul piano di lavoro e portate tutti i lati della pasta verso il centro. Poi pirlate ciascuna porzione, schiacciando delicatamente con il palmo della mano verso il piano e facendo un movimento rotatorio. Sistemate quindi le palline su un vassoio, distanziandole bene, coprite con un canovaccio e lasciate lievitare per un'ora e mezza, fino a quando non avranno raddoppiato di volume. Intanto occupatevi del ripieno. Tagliate il fiordilatte a dadini e mettetelo a scolare così perderà parte del siero. In un pentolino scaldate un filo d'olio e versate la passata di pomodoro. Regolate di sale e fate cuocere a fuoco dolce per circa 15 minuti. Quando sarà pronto trasferite il sugo in una ciotola, profumate con dell'origano secco, mescolate e lasciate raffreddare. Recuperate le palline, ormai lievitate. Prendetene una, schiacciatela leggermente su un piano leggermente infarinato e tiratela  aiutandovi con il matterello. Dovrete ottenere un disco rotondo spesso circa 2 mm. Ponete al centro di ogni cerchietto prima la passata di pomodoro e poi la mozzarella. A questo punto scaldate abbondante olio di semi in una pentola portandolo a 170° e friggete i panzerotti, immergendone 1- 2 alla volta. Appena torneranno in superficie girateli. Per cuocerli in maniera uniforme basterà girarli spesso. Scolate su carta assorbente e proseguite la cottura degli altri. I panzerotti sono pronti, serviteli caldissimi!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 5,
+      "title": "Arancini di riso",
+      "body": "Gli arancini di riso, vanto della cucina siciliana, sono piccoli timballi di riso farcito, uno street food sfizioso e saporito!",
+      "img1": "https://www.giallozafferano.it/images/2-247/Arancini-di-riso_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Zafferano",
+          "quantita": "1 bustina"
+        },
+        {
+          "id": 2,
+          "nome": "Burro",
+          "quantita": "30g"
+        },
+        {
+          "id": 3,
+          "nome": "Riso vialone nano",
+          "quantita": "500g"
+        },
+        {
+          "id": 4,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 5,
+          "nome": "Acqua",
+          "quantita": "1,2 l"
+        },
+        {
+          "id": 6,
+          "nome": "Caciocavallo stagionato da grattuggiare",
+          "quantita": "100g"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Cipolle",
+          "quantita": "1/2"
+        },
+        {
+          "id": 10,
+          "nome": "Burro",
+          "quantita": "25g"
+        },
+        {
+          "id": 11,
+          "nome": "Maiale macinato",
+          "quantita": "100g"
+        },
+        {
+          "id": 12,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 13,
+          "nome": "Passata di pomodoro",
+          "quantita": "200mg"
+        },
+        {
+          "id": 14,
+          "nome": "Pisellini",
+          "quantita": "80g"
+        },
+        {
+          "id": 15,
+          "nome": "Caciocavallo fresco",
+          "quantita": "50g"
+        },
+        {
+          "id": 16,
+          "nome": "Vino rosso",
+          "quantita": "50ml"
+        }
+      ],
+      "ricetta": "Per preparare gli arancini di riso siciliani, iniziate lessando il riso in 1,2 l di acqua bollente salata, in modo da far si che, a cottura avvenuta, l'acqua sia stata completamente assorbita (questo permetterà all'amido di rimanere tutto in pentola e otterrete un riso molto asciutto e compatto). Fate cuocere per circa 15 minuti, poi sciogliete lo zafferano in pochissima acqua calda e unitelo al riso ormai cotto. Unite anche il burro a pezzetti. Unite il formaggio grattugiato, mescolate bene per amalgamare il tutto, dopodiché  versate e livellate il riso su un vassoio ampio e basso e copritelo con la pellicola, per farlo rafferddare completamente, la pellicola eviterà che la superficie del riso si secchi. Lasciate riposare il riso per un paio di ore fuori dal frigorifero. Intanto dedicatevi al ripieno al ragù: mondate e affettate finemente la cipolla Fate stufare la cipolla tritata in un tegame con 2 cucchiai d’olio e il burro, poi unite la carne macinata; fatela rosolare a fuoco vivace, quindi aggiungete il vino e lasciatelo sfumare. A questo punto aggiungete la passata di pomodoro, aggiustate di sale e di pepe a piacere e fate cuocere a fuoco lento coperto per almeno 20 minuti. A metà cottura, aggiungete i piselli (se necessario potete aggiungere pochissima acqua calda perchè il ragù dovrà risultare ben rappreso e non liquido). Mentre i piselli si cuociono tagliate a cubetti il caciocavallo, il prosciutto cotto e la mozzarella. Avrete così pronti tutti i ripieni. Una volta che il riso si sarà raffreddato completamente (ci vorranno almeno un paio di ore), potrete formare gli arancini, per aiutarvi nella formazione tenete vicino una ciotola colma di acqua così da potervi inumidirvi le mani. Prelevate un paio di cucchiai di riso per volta (circa 120 gr di riso), schiacciate il mucchietto al centro del mano formando una conca e versateci all'interno un cucchiaino di ripieno al ragù, aggiungete qualche cubetto di caciocavallo. Quindi richiudete la base dell'arancino con il riso e modellatelo dandogli una forma a punta: potete dare questa forma a tutti gli arancini farciti con il ragù. Mentre per il ripieno al prosciutto, farcite ciascun arancino (formato circa da 130 gr di riso) con dadini di prosciutto e mozzarella. Il ripieno con questo tipo di ripieno viene tradizionalmente detto 'al burro'. e modellateli dandogli una forma rotonda. Ora che avete tutti gli arancini pronti, preparate la pastella: in una ciotola versate la farina setacciata, un pizzico di sale e l'acqu a filo. Mescolate accuratamente con una frusta per evitare che si formino grumi. Quindi tuffate gli arancini, uno ad uno, nella pastella avendo cura di ricoprirli interamente e rotolateli nel pangrattato. In un pentolino scaldate l'olio e portatelo alla temperatura di 170°, a quel punto friggete un arancino alla volta o massimo due per non abbassare la temperatura dell'olio: quando saranno ben dorati potrete scolarli ponendoli su un vassoio foderato con carta assorbente. Mi raccomando: gustate gli arancini di riso siciliani ben caldi!",
+      "categoria": "Antipasti"
+    },
+    {
+      "id": 6,
+      "title": "Spaghetti alla Carbonara",
+      "body": "La ricetta degli spagetti alla carbonara è tipica romana, apprezzata e replicata in tutto il mondo! Scopri come fare la carbonara perfetta!",
+      "img1": "https://www.giallozafferano.it/images/244-24489/Spaghetti-alla-Carbonara_450x300_sp.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Guanciale",
+          "quantita": "150g"
+        },
+        {
+          "id": 3,
+          "nome": "Tuorli (di uova medie)",
+          "quantita": "6"
+        },
+        {
+          "id": 4,
+          "nome": "Pecorino romano",
+          "quantita": "50g"
+        },
+        {
+          "id": 5,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare gli spaghetti alla carbonara cominciate mettendo sul fuoco una pentola con l’acqua salata per cuocere la pasta. Nel frattempo eliminate la cotenna dal guanciale e tagliatelo prima a fette e poi a striscioline spesse circa 1cm. La cotenna avanzata potrà essere riutilizzata per insaporire altre preparazioni. Versate i pezzetti di guanciale in una padella antiaderente e rosolate per circa 10 minuti a fiamma medio alta, fate attenzione a non bruciarlo altrimenti rilascerà un aroma troppo forte. Nel frattempo tuffate gli spaghetti nell’acqua bollente e cuoceteli al dente. Intanto versate i tuorli in una ciotola. Aggiungete il Pecorino e insaporite con il pepe nero. Amalgamate il tutto con una frusta a mano, sino ad ottenere una crema liscia. Intanto il guanciale sarà giunto a cottura; spegnete il fuoco e utilizzando un mestolo prelevatelo dalla padella, lasciando il fondo di cottura all'interno della padella stessa. Trasferite il guanciale in una ciotolina e tenetelo da parte. Versate una mestolata d’acqua della pasta in padella, insieme al grasso del guanciale. Scolate la pasta al dente direttamente nel tegame con il fondo di cottura. Saltatela brevemente per insaporirla. Togliete dal fuoco e versate il composto di uova e Pecorino nel tegame. Mescolate velocemente per amalgamare. Per renderla ben cremosa, al bisogno, potete aggiungere poca acqua di cottura della pasta. Aggiungete il guanciale, mescolate un'ultima volta e servite subito gli spaghetti alla carbonara aggiungendo ancora del pecorino in superficie e un pizzico di pepe nero.",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 7,
+      "title": "Lasagne alla Bolognese",
+      "body": "Un classico primo piatto della domenica: lasagne alla bolognese, tipiche emiliane, diffuse e apprezzati in tutta Italia! Scopri come realizzarle!",
+      "img1": "https://www.giallozafferano.it/images/229-22941/Lasagne-alla-Bolognese_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Semola di grano duro rimacinata",
+          "quantita": "350g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina 00",
+          "quantita": "150g"
+        },
+        {
+          "id": 3,
+          "nome": "Spinaci",
+          "quantita": "250g"
+        },
+        {
+          "id": 4,
+          "nome": "Uova",
+          "quantita": "2"
+        },
+        {
+          "id": 5,
+          "nome": "Tuorli",
+          "quantita": "3"
+        },
+        {
+          "id": 6,
+          "nome": "Carne bovina",
+          "quantita": "300g"
+        },
+        {
+          "id": 7,
+          "nome": "Pancetta",
+          "quantita": "150g"
+        },
+        {
+          "id": 8,
+          "nome": "carote",
+          "quantita": "50g"
+        },
+        {
+          "id": 9,
+          "nome": "Sedano",
+          "quantita": "50g"
+        },
+        {
+          "id": 10,
+          "nome": "Cipolle dorate",
+          "quantita": "50g"
+        },
+        {
+          "id": 11,
+          "nome": "Vino rosso",
+          "quantita": "50g"
+        },
+        {
+          "id": 12,
+          "nome": "Passata di pomodoro",
+          "quantita": "300g"
+        },
+        {
+          "id": 13,
+          "nome": "Brodo vegetale",
+          "quantita": "q.b"
+        },
+        {
+          "id": 14,
+          "nome": "Olio extra vergine d'oliva",
+          "quantita": " 1 cucchiaio"
+        },
+        {
+          "id": 15,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 16,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le lasagne alla bolognese, iniziate dal ragù. Preparate il brodo vegetale che dovrete tenere in caldo. Poi prendete la pancetta, tagliatela prima a striscioline. Con un coltello o una mezzaluna sminuzzatela per bene. A parte preparate un trito fine con carote, cipolle, sedano e tenetelo da parte. In una casseruola versate un filo d'olio e la pancetta. Sgranatela bene con un mestolo e lasciatela rosolare per alcuni minuti. Aggiungete poi il trito di verdure e fate insaporire per 5-6 minuti. Aggiungete poi la carne macinata. Mescolate e alzate la fiamma. Lasciate rosolare la carne senza fretta, dovrà essere ben rosolata per sigillare i succhi e risultare morbida non stopposa. Sfumate con il vino rosso, poi aspettate che sia completamente evaporato e aggiungete la passata di pomodoro. Mescolate, il ragù deve cuocere due ore. Quando ha ripreso il bollore potete aggiungete poco brodo caldo, uno o due mestoli. Poi fate andare il ragù per un paio d'ore almeno. Dovrete cuocere con il coperchio, senza chiudere del tutto. Controllate e mescolate di tanto in tanto, al bisogno aggiungete altro brodo e lasciate cuocere per il tempo indicato. Passate adesso alla pasta. Come prima cosa versate gli spinaci in un tegame, aggiungete poca acqua, coprite con un coperchio e lasciate cuocere fino a che non saranno appassiti, in totale ci vorranno 5-6 minuti. A questo punto scolateli, lasciateli intiepidire e strizzateli bene. Trasferiteli in un mixer e frullateli fino ad ottenere una purea. Dovrete ricavarne 100 g. Adesso su una spianatoia versate la semola e la farina 00, aggiungete gli spinaci e create una forma a fontana. Unite le uova leggermente sbattute e i tuorli, sempre sbattuti. Iniziate ad impastare il tutto partendo dal centro, in questo modo le uova non scivoleranno fuori dalla fontana. Impastate bene fino ad ottenere un panetto omogeneo. Avvolgetelo nella pellicola e lasciate riposare per 30 minuti a temperatura ambiente. Nel frattempo preparate la besciamella, ricordandovi sempre di controllare il ragù. In un pentolino mettete a scaldare il latte, senza farlo bollire. In un altro tegame versate il burro e lasciatelo fondere. Aggiungete la farina in una volta sola e cuocete per pochi minuti fino ad ottenere un roux dorato. Versate quindi il latte caldo in 3 volte, mescolando bene. Aggiungete il sale e aromatizzate con la noce moscata. Continuate a mescolare fino ad ottenere una besciamella cremosa. Trasferite in una ciotolina, coprite con pellicola a contatto e tenete da parte. Non appena saranno trascorsi i 30 minuti riprendete il panetto di pasta e prelevatene un pezzo. Coprite la pasta restante con la pellicola per non farla seccare. Aiutandovi con un po' di semola appiattitelo leggermente sulla spianatoia in modo da formare un rettangolo e stendete la pasta nella macchina. Iniziate da uno spessore più largo, poi ripiegate la passa su se stessa e ripassatela. Quando sentite che è troppo umida spolverizzate con un po' di semola. Riducete man mano lo spessore fino ad ottenere una sfoglia spessa poco più di mezzo mm. Trasferitela su una spianatoia e tagliate dei rettangoli grandi 30x20 cm. Proseguite in questo modo fino a terminare l'impasto e nel frattempo mettete sul fuoco una pentola colma d'acqua e salatela. Quando inizierà a bollire mmergete una sfoglia alla volta, aspettate 30-40 secondi e aiutandovi con una schiumarola scolatela. Trasferitela su un vassoio con un canovaccio e tamponate per togliere l'acqua in eccesso. Proseguite in questo modo affiancando le sfoglie cotte, senza sovrapporle. Non appena anche il ragù sarà pronto aggiustate di sale e pepe e procedete alla composizione delle lasagne. Prendete una teglia da lasagna grande 30x20 cm e imburrate il fondo. Aggiungete uno strato sottile di besciamella e uno di ragù. Posizionate quindi la prima sfoglia aggiungete uno strato di besciamella e uno di ragù. Aggiungete il parmiggiano grattuggiato e posizionate sopra un'altra sfoglia di pasta. Aggiungete ancora uno strato di besciamella e uno di ragù, unite il formaggio grattugiato e proseguite così fino a realizzare 5 strati. Dopo aver posizionato l'ultima sfoglia aggiungete il ragù in modo da coprire interamente la pasta. Spolverizzate con il formaggio grattugiato, aggiungete dei ciuffetti di burro e cuocete in forno statico preriscaldato a 170° per 40 minuti. Le lasagne alla bolognese sono pronte per essere servite.",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 8,
+      "title": "Spaghetti alle Vongole",
+      "body": "La ricetta degli spagheti alle vongole è uno dei più grandi classici della cucina italiana. Si tratta di una tradizione campana amata ovunque!",
+      "img1": "https://www.giallozafferano.it/images/242-24236/Spaghetti-alle-vongole_450x300_sp.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti grossi",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Vongole",
+          "quantita": "1kg"
+        },
+        {
+          "id": 3,
+          "nome": "Aglio",
+          "quantita": "1 spicchio"
+        },
+        {
+          "id": 4,
+          "nome": "Prezzemolo",
+          "quantita": " 1 mazzetto"
+        },
+        {
+          "id": 5,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 6,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Sale grosso per le vongole",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare gli spaghetti alle vongole, cominciate dalla pulizia. Assicuratevi che non ci siano gusci rotti o vuoti, andranno scartati. Passate poi a batterle contro il lavandino, o eventualmente su un tagliere. Questa operazione è importante per verificare che non ci sia sabbia all'interno: le bivalve sane resteranno chiuse, quelle piene di sabbia invece si apriranno. Poi ponete le vongole in una ciotola e sciacquatele. Aggiungete il sale grosso. Lasciate in ammollo le vongole per 2-3 ore. Trascorso il tempo le vongole avranno spurgato eventuali residui di sabbia, scolatele e sciacquatele. In un tegame mettete a scaldare un po' d'olio . Poi aggiungete uno spicchio d'aglio e lasciatelo imbiondire. Tuffate quindi le vongole nel tegame caldo. Chiudete con il coperchio e lasciate cuocere per qualche minuto a fiamma alta. Le vongole si apriranno con il calore, quindi agitate di tanto in tanto il tegame finché non si saranno completamente dischiuse. Nel frattempo tritate finemente il prezzemolo. Non appena tutte le vongole saranno aperte spegnete subito il fuoco, altrimenti le vongole cuoceranno troppo. Cuocete gli spaghetti in abbondante acqua leggermente salata, per metà del tempo di cottura indicato sulla confezione. Nel frattempo filtrate le vongole, posizionando una ciotola al di sotto e ricordandovi di eliminare l'aglio. In questo modo raccoglierete l'acqua di cottura delle vongole nella ciotola. Trasferitela nel tegame dove avevate cotto le vongole e non appena gli spaghetti saranno pronti scolateli, tenendo da parte l'acqua di cottura. Trasferiteli nel tegame con il condimento. Aggiungete un mestolo di acqua di cottura, regolate di pepe e terminate la cottura degli spaghetti, aggiungendo altra acqua al bisogno. Quando saranno pronti aggiungete le vongole. Unite anche il prezzemolo, saltate brevemente e servite subito i vostri spaghetti con le vongole.",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 9,
+      "title": "Spaghetti Cacio e Pepe",
+      "body": "La ricetta degli spaghetti cacio e pepe è uno dei capi saldi della cucina tipica romana: pochi ingredienti e un trucchetto per un risultato gradito!",
+      "img1": "https://www.giallozafferano.it/images/219-21989/Spaghetti-Cacio-e-Pepe_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Pecorino romano stagionatura media, da grattuggiare",
+          "quantita": "200g"
+        },
+        {
+          "id": 3,
+          "nome": "Pepe nero in grani",
+          "quantita": "5g"
+        }
+      ],
+      "ricetta": "Per preparare gli spaghetti cacio e pepe per prima cosa mettete sul fuoco una pentola con l’acqua per cuocere la pasta: riempitela con circa metà dell’acqua che usate di solito, in questo modo sarà più ricca di amido. Nel frattempo grattugiate il Pecorino romano e trasferitelo quasi tutto in una ciotola, tenendone un po’ da parte per l’impiattamento. Quando l’acqua sarà arrivata a bollore, salate moderatamente e tuffate gli spaghetti. Intanto pestate i grani di pepe con un batticarne (oppure usate un macinino lasciandolo piuttosto lento in modo da avere anche pezzetti più grandi di pepe). Versate il pepe in un’ampia padella antiaderente e tostatelo a fuoco dolce, mescolando con un mestolo di legno. Sfumate con un paio di mestoli dell’acqua di cottura della pasta. Continuate a mescolare a fuoco dolce. Scolate gli spaghetti 2-3 minuti prima rispetto al tempo indicato sulla confezione e trasferiteli nella padella, avendo cura di conservare l’acqua di cottura. Terminate la cottura degli spaghetti in padella, risottandoli, aggiungendo quindi acqua calda al bisogno e rimestando continuamente con le pinze. Aspettate che il fondo della padella sia quasi asciutto prima di aggiungere altra acqua. Potete preparare la crema di Pecorino (non iniziate prima perché tenderebbe a rapprendersi o a risultare troppo fredda rispetto alla temperatura della pasta): versate un mestolo di acqua di cottura calda nella ciotola con il Pecorino grattugiato, poi mescolate energicamente con una frusta a mano. La consistenza che dovrete ottenere è più pastosa che cremosa, non preoccupatevi se sarà molto asciutta. Qualora una volta pronta la crema la pasta non dovesse essere pronta per la mantecatura, ponete brevemente la ciotola sulla pentola con l’acqua calda continuando a mescolare con la frusta, così da avere la crema a una temperatura simile a quella della pasta. Quando gli spaghetti saranno giunti a cottura, spegnete il fuoco e unite la crema di Pecorino, rimestando di continuo con le pinze Per la cremosità ideale regolatevi aggiungendo più Pecorino oppure poca acqua di cottura al bisogno. Servite i vostri spaghetti cacio e pepe spolverizzando con il restante Pecorino grattugiato e altro pepe macinato al momento a piacere!",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 10,
+      "title": "Spaghetti alla puttanesca",
+      "body": "Gli spaghetti alla puttanesca sono un gustoso primo piatto con pomodoro, olive, alici e capperi, faciel e veloce da preparare! Scopri dosi e ricetta",
+      "img1": "https://www.giallozafferano.it/images/239-23911/Spaghetti-alla-puttanesca_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Spaghetti",
+          "quantita": "320g"
+        },
+        {
+          "id": 2,
+          "nome": "Pomodori pelati",
+          "quantita": "800g"
+        },
+        {
+          "id": 3,
+          "nome": "Acciughe sott'olio",
+          "quantita": "25g"
+        },
+        {
+          "id": 4,
+          "nome": "Capperi sotto sale",
+          "quantita": "10g"
+        },
+        {
+          "id": 5,
+          "nome": "Prezzemolo",
+          "quantita": "1 mazzetto"
+        },
+        {
+          "id": 6,
+          "nome": "Olive di Gaeta",
+          "quantita": "100g"
+        },
+        {
+          "id": 7,
+          "nome": "Aglio",
+          "quantita": "3 spicchi"
+        },
+        {
+          "id": 8,
+          "nome": "Peperoncino secco",
+          "quantita": "2g"
+        },
+        {
+          "id": 9,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "30g"
+        },
+        {
+          "id": 10,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per realizzare la puttanesca per prima cosa sciacquate sotto i capperi l’acqua corrente per eliminare il sale in eccesso, poi asciugali e tritali grossolanamente al coltello. Prendete le olive di gaeta denocciolate e schiacciatele con la lama del coltello. Lavate, asciugate e tritate il prezzemolo. Mettete sul fuoco una pentola colma di acqua da salare a bollore per cuocere la pasta. In una padella ampia versate l’olio, gli spicchi d’aglio sbucciati interi, il peperoncino secco tritato e le acciughe. Unite anche i capperi dissalati. Rosolate a fuoco medio per 5 minuti mescolando spesso, così le acciughe si scioglieranno e si sprigioneranno tutti gli aromi. A questo punto versate i pelati leggermente schiacciati, mescolate con un cucchiaio e cuocete per altri 10 minuti a fuoco medio. Intanto cuocete gli spaghetti al dente. Quando il sugo sarà pronto, rimuovete gli spicchi d’aglio e aggiungete le olive schiacciate. Aromatizzate il sugo con il prezzemolo fresco tritato. Quando la pasta sarà al dente, scolatela direttamente in padella e saltatela per mezzo minuto, giusto il tempo di fare amalgamare tutti i sapori. Gli spaghetti alla puttanesca sono pronti da servire ben caldi!",
+      "categoria": "Primi piatti"
+    },
+    {
+      "id": 11,
+      "title": "Polpette al sugo",
+      "body": "Una ricetta classica amata dai grandi e dai piccini, le polpette al sugo. Un secondo piatto molto gustoso, cotto in un sugo in cui fare la scarpetta.",
+      "img1": "https://www.giallozafferano.it/images/241-24154/Polpette-al-sugo_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Manzo (carne macinata)",
+          "quantita": "220g"
+        },
+        {
+          "id": 2,
+          "nome": "Salsiccia",
+          "quantita": "165g"
+        },
+        {
+          "id": 3,
+          "nome": "Pane raffermo mollica",
+          "quantita": "30g"
+        },
+        {
+          "id": 4,
+          "nome": "Parmiggiano reggiano Dop grattuggiato",
+          "quantita": "25g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Prezzemolo tritato",
+          "quantita": "1 cucchiaio"
+        },
+        {
+          "id": 7,
+          "nome": "Origano secco",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 8,
+          "nome": "Noce moscata grattuggiata",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 10,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 11,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 12,
+          "nome": "Passata di pomodoro",
+          "quantita": "350g"
+        },
+        {
+          "id": 13,
+          "nome": "Acqua",
+          "quantita": "50g"
+        },
+        {
+          "id": 14,
+          "nome": "Sale fino",
+          "quantita": "5g"
+        },
+        {
+          "id": 15,
+          "nome": "Origano secco",
+          "quantita": "q.b"
+        },
+        {
+          "id": 16,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le polpette al sugo iniziate con l’impasto: tagliate la mollica in pezzi e versatela in un mixer dotato di lame. Tritate il tutto fin quando la mollica non sarà ridotta in briciole. Prendete le salsicce, incidetele delicatamente nel senso della lunghezza e infine privatele del budello. Con la lama di un coltello o con una forchetta schiacciate la carne. Versate in una ciotola capiente la salsiccia e la carne macinata. Aggiungete l'origano, un pizzico di noce moscata grattugiata 8 ed il prezzemolo tritato. Infine unite il Parmigiano grattugiato e la mollica che avete tritato precedentemente. Versate anche l'uovo e iniziate ad impastare con le mani. Aggiustate di sale e di pepe, poi continuate ad impastare sino ad ottenere un composto omogeneo. Con l’impasto ottenuto andate a formare delle sfere del peso di 20 grammi l’una, prelevando un pezzetto di impasto e amalgamandolo con entrambe le mani: con le nostre dosi dovrete ottenere 24 polpettine. Non appena tutte le polpette saranno pronte, fate scaldare l’olio in una pentola antiaderente e, quando l'olio sarà ben caldo, adagiate le polpette, lasciandole cuocere da entrambe i lati per un paio di minuti. Versate la polpa di pomodoro. Aggiungete anche l'acqua, aggiustate di sale, aromatizzate con pepe e proseguite la cottura abbassando la fiamma per 15-20 minuti. Una volta pronte, aromatizzate con origano secco e potrete gustare le vostre polpette al sugo ancora fumanti!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 12,
+      "title": "Gateau di patate",
+      "body": "Come creare la croccante crosta del gateau di patate? Lo Chef Roberto di Pino vi guida nella realizzazione di questo piatto tradizionale!",
+      "img1": "https://www.giallozafferano.it/images/165-16591/Gateau-di-patate_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Patate a pasta gialla",
+          "quantita": "500g"
+        },
+        {
+          "id": 2,
+          "nome": "Fiordilatte",
+          "quantita": "100g"
+        },
+        {
+          "id": 3,
+          "nome": "Salame napoletano",
+          "quantita": "50g"
+        },
+        {
+          "id": 4,
+          "nome": "Prosciutto cotto in una fetta spessa",
+          "quantita": "50g"
+        },
+        {
+          "id": 5,
+          "nome": "Parmiggiano Reggiano DOP (24 mesi) grattugiato",
+          "quantita": "30g"
+        },
+        {
+          "id": 6,
+          "nome": "Uova",
+          "quantita": "2"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare il gateau di patate cominciate lessando queste ultime. Per farlo sciacquatele e versatele in una pentola capiente coprendo con abbondante acqua fredda. Trasferite la pentola sul fuoco e, non appena l’acqua sarà in ebollizione, contate circa 30-40 minuti, a seconda della grandezza delle patate. Fate la prova forchetta per assicurarvi che siano effettivamente cotte: se i rebbi arrivano facilmente al centro dei tuberi allora sono pronti. Scolate le patate e cominciate a sbucciarle mentre sono ancora calde, aiutatevi con un coltellino per non scottarvi. Infine schiacciatele subito in un recipiente: le patate quando sono calde si disfano con più semplicità  e non presenteranno grumi. Nel frattempo tagliate la mozzarella a cubetti e sistematela in un colino per strizzarla, in questo modo scolerà del siero in eccesso. Potete in alternativa strizzarla aiutandovi con un canovaccio pulito. Tagliate il salame tipo Napoli a cubetti di circa 1 cm, fate lo stesso anche con la fetta di prosciutto cotto. A questo punto riprendete le patate appena schiacciate e aggiungete le uova, una spolverata di pepe, il sale, un filo d'olio e il Parmiggiano grattugiato. MEscolate gli ingredienti e quanod il composto sarà ben amalgamato potete unire il prosciutto e il salame tipo Napoli a cubetti, poi versate nella ciotola anche la mozzarella scolata e amalgamate tutti gli ingredienti. A questo punto oliate una pirofila quadrata 20x20 cm e spolverizzate con il pangrattato. Muovete la teglia per assicuarci che il pan grattato si distribuisca su tutta la superficie. Poi versate il composto aiutandovi con una spatola per livellarlo. Spolverizzate la superficie con il pangrattato e il PArmiggiano, condite ancora con un filo d'olio e cuocete in forno statico preriscaldato a 180 gradi per circa 30 minuti. Una volta pronto, il vostro gateau di patate sarà fumanete ed invitante per essere servito!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 13,
+      "title": "Parmiggiana di melanzane",
+      "body": "La parmiggiana di melanzane è una delle ricette italiane più famose e amate, prepara insieme a noi questo meraviglioso secondo piatto vegetariano!",
+      "img1": "https://www.giallozafferano.it/images/234-23446/Parmigiana-di-melanzane_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Melanzane ovali nere",
+          "quantita": "1,7kg"
+        },
+        {
+          "id": 2,
+          "nome": "Passata di pomodoro",
+          "quantita": "1kg"
+        },
+        {
+          "id": 3,
+          "nome": "Fiordilatte",
+          "quantita": "500g"
+        },
+        {
+          "id": 4,
+          "nome": "Parmiggiano Reggiano DOP (da grattuggiare)",
+          "quantita": "150g"
+        },
+        {
+          "id": 5,
+          "nome": "Cipolle dorate",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Basilico",
+          "quantita": "q.b"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare la parmiggiana di melanzane cominciate dal sugo. Pulite e tritate la cipolla, versate in un tegame dove avrete scaldato l'olio (che copra il fondo). Lasciatela rosolare per un paio di minuti mescolando spesso per non farla bruciare, poi unite la passata di pomodoro. Regolate di sale e versate le foglie di basilico, sciacquate il recipiente con poca acqua e versatela in pentola quindi lasciate cuocere a fuoco dolce per 45-50 minuti. Nel frattempo tagliate a cubetti il fiordilatte tenendone da parte un pezzo che servirà alla fine. Mettete a scolare i cubetti in uno scolapasta messo in una ciotola, coprite con pellicola e mettete da parte: questo procedimento serve a far colare il siero in eccesso. A questo punto passate alle melanzane, pulitele e spuntatele. Affettate per il senso della lunghezza ottenendo delle fette spesse di 4-5 mm. Quando avrete finito friggete le melanzane in olio già caldo 170° immergendo pochi pezzi alla volta, non appena saranno leggermente dorate scolate su vassoio con carta assorbente. Quando sul vassoio sarà finito lo spazio mettete altra carta assorbente e mettete a scolare le altre melanzane fritte. In ultimo passate alla composizione, iniziate versando un po’ di sugo in una pirofila da 20x30 cm. Formate il primo strato disponendo le fette di melanzane, versate il sugo di pomodoro, spalmatelo e distribuite dei cubetti di fiordilatte. Spolverizzate con il Parmigiano grattugiato e delle foglie di basilico. Ricominciate aggiungendo il sugo di pomodoro e le melanzane, che andranno adagiate in senso contrario. E poi ancora i formaggi e le foglie di basilico. Andate avanti così fino ad arrivare all'ultimo strato di melanzane e che andrete a condire, ancora una volta, con sugo e il fiordilatte che avete tenuto da parte, da spezzettare a mano. Finite con il Parmigiano grattugiato e infornate in forno statico, già caldo a 200°, per circa 30 minuti. Trascorso il tempo di cottura lasciate riposare per 15-20 minuti prima di servire la vostra parmigiana di melanzane.",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 14,
+      "title": "Fileto al pepe verde",
+      "body": "Il filetto al pepe verde è un classico secondo di carne dal gusto avvolgente grazie alla cremosa salsa a base id panna e senape con cui viene servito.",
+      "img1": "https://www.giallozafferano.it/images/184-18454/Filetto-al-pepe-verde_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Filetto di manzo (4 filetti)",
+          "quantita": "1kg"
+        },
+        {
+          "id": 2,
+          "nome": "Pepe verde in grani in salamoia",
+          "quantita": "20g"
+        },
+        {
+          "id": 3,
+          "nome": "Panna fresca liquida",
+          "quantita": "80g"
+        },
+        {
+          "id": 4,
+          "nome": "Senape di Digione",
+          "quantita": "40g"
+        },
+        {
+          "id": 5,
+          "nome": "Brodo di carne",
+          "quantita": "100g"
+        },
+        {
+          "id": 6,
+          "nome": "Brandy",
+          "quantita": "25g"
+        },
+        {
+          "id": 7,
+          "nome": "Farina 00",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Burro chiarificato",
+          "quantita": "20g"
+        },
+        {
+          "id": 9,
+          "nome": "sale",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per realizzare il filetto al pepe verde, per prima cosa preparate il brodo di carne seguendo le indicazioni della nostra ricetta. Nel frattempo rimuovete tutti gli ingredienti dal frigorifero per assicurarvi che siano a temperatura ambiente, soprattutto la carne: in caso contrario, rischierebbe di rimanere fredda e cruda al cuore. Prendete dello spago da cucina e legate i filetti in modo che mantengano meglio la forma durante la cottura: tagliate un pezzo abbastanza lungo di spago, piegatelo a metà e avvolgetelo intorno al filetto, poi fate passare le due estremità dello spago che tenete in una mano all’interno dell’asola che avete nell’altra mano. A questo punto separate le due estremità e usatele per fare un altro giro intorno al filetto, dopodiché fermate lo spago con un nodino. Dopo averli legati, versate la farina in un contenitore e adagiate all’interno i filetti avendo cura di infarinare soltanto il lato superiore e inferiore. Ora prendete una padella, aggiungete il burro chiarificato e lasciatelo sciogliere a fuoco vivace. Quando il burro sarà ben caldo, posizionate i filetti nella padella, scottateli per qualche istante sempre a fuoco vivace, poi abbassate leggermente la fiamma e lasciateli cuocere per 1-2 minuti senza toccarli in modo che i primi 6-7 mm del filetto diventino dorati. A questo punto alzate di nuovo la fiamma e girate i filetti sull’altro lato usando un paio di pinze o due cucchiai di legno, senza bucare la carne. Scottate ancora per qualche secondo, poi lasciate cuocere per altri 1-2 minuti a fiamma più bassa. Infine girate i filetti sul fianco e alzando di nuovo la fiamma rotolateli nel burro, in modo che l’intera superficie risulti sigillata. A questo punto sfumate con il brandy, facendo attenzione agli eventuali schizzi di burro. Inclinate subito la padella per flambare il brandy, oppure utilizzate un accendino, e lasciate evaporare l’alcool. Non appena la fiamma si sarà estinta, abbassate il fuoco e aggiungete il pepe verde, che avrete precedentemente scolato dalla salamoia, un pizzico di sale e la senape. Fate ruotare la padella per distribuire il condimento, poi versate all’interno 50 g di panna fresca e 50 g di brodo e alzate nuovamente la fiamma. Muovete ancora la padella per mescolare il tutto e proseguite la cottura per un paio di minuti, nappando continuamente la superficie della carne con la crema utilizzando un cucchiaio. Poi girateli e fate la stessa cosa anche dall'altro lato. Per una cottura perfettamente al sangue, toccate la superficie del filetto con un dito per assicurarvi che sia morbido. Se invece preferite la carne un po' più cotta, prolungate leggermente la cottura aggiungendo eventualmente un po' di brodo, Una volta che i filetti saranno cotti, trasferiteli sui piatti da portata, rimuovete lo spago e lasciateli riposare. Nel frattempo riprendete la padella con il fondo di cottura, aggiungete i restanti 50 g di brodo e i 30 g di panna fresca, aggiustate eventualmente di sale e fate addensare la salsa a fuoco vivace per 1-2 minuti muovendo la padella. Riconoscerete la giusta consistenza quando, tracciando una linea con il cucchiaio la crema ai due lati si ricongiungerà lentamente. A questo punto riprendete il piatto con il filetto, cospargete con un cucchiaio di crema e servite subito il vostro filetto al pepe verde!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 15,
+      "title": "Polpette di zucca",
+      "body": "Le polpette di zucca, fritte o al forno, sono uno sfizioso finger food autunnale che nasconde all'interno un gustoso ripieno di formaggio filante.",
+      "img1": "https://www.giallozafferano.it/images/238-23873/Polpette-di-zucca_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Zucca violina (già pulita)",
+          "quantita": "500g"
+        },
+        {
+          "id": 2,
+          "nome": "Pangrattato",
+          "quantita": "100g"
+        },
+        {
+          "id": 3,
+          "nome": "Parmiggiano Reggiano DOP da grattuggiare",
+          "quantita": "100g"
+        },
+        {
+          "id": 4,
+          "nome": "Scamorza affumicata",
+          "quantita": "50g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova",
+          "quantita": "1"
+        },
+        {
+          "id": 6,
+          "nome": "Salvia",
+          "quantita": "q.b"
+        },
+        {
+          "id": 7,
+          "nome": "Olio extravergine d'oliva",
+          "quantita": "q.b"
+        },
+        {
+          "id": 8,
+          "nome": "Sale fino",
+          "quantita": "q.b"
+        },
+        {
+          "id": 9,
+          "nome": "Pepe nero",
+          "quantita": "q.b"
+        }
+      ],
+      "ricetta": "Per preparare le polpette di zucca, per prima cosa occupatevi della zucca (noi abbiamo usato la varietà violina, ma andranno bene anche le altre qualità, come la delica): dividetela a metà e rimuovete la buccia, poi tagliatela a fette di mezzo cm di spessore. Dovrete ottenere 500 g di polpa di zucca. Sistemate le fette di zucca su una leccarda foderata con carta forno, condite con un filo d’olio e un pizzico di sale e cuocete in forno statico preriscaldato a 200° per 30 minuti. Nel frattempo, tritate finemente le foglie di salvia e riducete a cubetti la scamorza affumicata. Quando la zucca sarà cotta, sfornatela e trasferitela in una ciotola. Schiacciate la zucca con una forchetta, poi aggiungete il apngrattato e il Parmiggiano grattugiato. Uniche anche l'uovo e la salvia tritata. Impastate il composto con le mani per amalgamare bene tutti gli ingredienti, poi pepate a picere. Col composto ottenuto formate delle palline di circa 40 g l’una, inserendo al centro qualche cubetto di scamorza affumicata. Richiudete la polpetta in modo da sigillare il formaggio all’interno e lavoratela con le mani per darle una forma tonda. Proseguite allo stesso modo con tutte le altre, ne otterrete circa 16 con queste dosi. A questo punto portate l’olio per la frittura a una temperatura di 170° (è preferibile misurare con un termometro da cucina) e passate ogni polpetta nel pangrattato. Immergetele nell’olio a temperatura per un paio di minuti, affinché il formaggio all’interno si sciolga. Ricordatevi di friggere poche polpette per volta per evitare che la temperatura dell’olio si abbassi eccessivamente. Quando saranno ben dorate, scolatele su un foglio di carta assorbente per eliminare l’olio in eccesso. Le vostre polpette di zucca sono pronte per essere servite ancora calde e filanti!",
+      "categoria": "Secondi piatti"
+    },
+    {
+      "id": 16,
+      "title": "Tiramisù",
+      "body": "Il Tiramisù classi è il dessert italiano per eccellenza, uno dei più gustosi e conosciuti al mondo. Crema al mascarpone e savoiardi al caffè.",
+      "img1": "https://www.giallozafferano.it/images/237-23742/Tiramisu_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Mascarpone",
+          "quantita": "750g"
+        },
+        {
+          "id": 2,
+          "nome": "Uova (fresche)",
+          "quantita": "260g"
+        },
+        {
+          "id": 3,
+          "nome": "Savoiardi",
+          "quantita": "250g"
+        },
+        {
+          "id": 4,
+          "nome": "Zucchero",
+          "quantita": "120g"
+        },
+        {
+          "id": 5,
+          "nome": "Caffè (della moka, zucchero a piacere)",
+          "quantita": "300g"
+        }
+      ],
+      "ricetta": "Per preparare il tiramisù preparate il caffé con la moka per ottenerne 300 g, poi zuccherate a piacere (noi abbiamo messo un cucchiaino) e lasciatelo raffreddare in una ciotolina bassa e ampia. Separate le uova dividendo gli albumi dai tuorli, ricordando che per montare bene gli albumi non dovranno presentare alcuna traccia di tuorlo. Montate i tuorli con le fruste elettriche, versando solo metà dose di zucchero. Non appena il composto sarà diventato chiaro e spumoso, e con le fruste ancora in funzione, potrete aggiungere il mascarpone, poco alla volta. Incorporato tutto il formaggio avrete ottenuto una crema densa e compatta; tenetela da parte. Pulite molto bene le fruste e passate a montare gli albumi. Quando saranno schiumosi versate il restante zucchero un po’ alla volta. Dovrete montarli a neve ben ferma; otterrete questo risultato quando rovesciando la ciotola la massa non si muoverà. Prendete una cucchiaiata di albumi e versatela nella ciotola con la crema di mascarpone 8 e mescolate energicamente con una spatola, così stempererete il composto. Dopodiché procedete ad aggiungere la restante parte di albumi, poco alla volta mescolando molto delicatamente dal basso verso l'alto. La crema al mascarpone è ora pronta. Distribuitene una generosa cucchiaiata sul fondo di una pirofila di vetro, grande 30x19,5cm e distribuite per bene su tutta la base. Inzuppate per pochi istanti i savoiardi nel caffè freddo prima da un lato e poi dall’altro. Man mano distribuite i savoiardi imbevuti nella pirofila, cercando di sistemarli tutti in un verso, così da ottenere un primo strato di biscotti. Aggiungete altra crema al mascarpone e livellatela in modo da coprirli completamente. E continuate a distribuire i savoiardi imbevuti nel caffè, poi realizzate un'altro strato di crema e livellate bene la superficie. Trasferite la crema rimasta in un sac-à-poche con beccuccio liscio di diametro 12 mm e realizzare dei ciuffetti per tutta la dimensione della teglia. Spolverizzatela con del cacao amaro in polvere e lasciate rassodare in frigorifero per un paio d’ore. Il vostro tiramisù è pronto per essere gustato!",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 17,
+      "title": "Pancake allo sciroppo d'acero",
+      "body": "Preparare i pancake in casa è molto semplice, con pochi ingredienti il gioco è fatto: soffici frittelle da guarnire a piacere, scopri dosi e ricetta!",
+      "img1": "https://www.giallozafferano.it/images/243-24387/Pancakes-allo-sciroppo-d-acero_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Farina 00",
+          "quantita": "125g"
+        },
+        {
+          "id": 2,
+          "nome": "Latte intero (fresco)",
+          "quantita": "200g"
+        },
+        {
+          "id": 3,
+          "nome": "Butto",
+          "quantita": "25g"
+        },
+        {
+          "id": 4,
+          "nome": "Zucchero",
+          "quantita": "15g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova (medie)",
+          "quantita": "2"
+        },
+        {
+          "id": 6,
+          "nome": "Lievito in polvere per dolci",
+          "quantita": "6g"
+        },
+        {
+          "id": 7,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        }
+      ],
+      "ricetta": "Per realizzare i pancake per prima cosa fate sciogliere il burro a fuoco bassissimo, poi lasciate intiepidire. Intanto separate gli albumi dai tuorli: versate i tuorli in una ciotola e sbatteteli con una frusta a mano, poi unite il burro fuso a temperatura ambiente e il latte a filo, continuando sempre a mescolare con la frusta. Aggiungete anche un pizzico di sale e montate il composto finché non risulterà chiaro. Unite il lievito alla farina e setacciate tutto nella ciotola con il composto di turli. Mescolate ancora per incorporare le polveri. Ora montate gli albumi che avete tenuto da parte, versando poco alla volta lo zucchero. Quando saranno bianchi e spumosi incorporateli delicatamente al composto di tuorli, con movimenti dal basso verso l'alto, per evitare di smontarli. Scaldate a fuoco medio una crepiera o una padella antiaderente (meglio se a fondo spesso) e ungetela con pochissimo burro aiutandovi con della carta da cucina. Versate al centro del pentolino un mestolino di composto. Dopo circa 2 minuti inizieranno a comparire delle bollicine in superficie, quindi girate il pancake con una spatolina e fate dorare anche l'altro lato per circa mezzo minuto. Proseguite così con il resto dell'impasto e disponete man mano i pancake su un piatto da portata, impilandoli uno sull'altro; con queste dosi otterrete all'incirca 12 pancake. Servite i vostri pancake allo sciroppo d'acero ancora caldi!",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 18,
+      "title": "Tortino al cioccolato con cuore fondente",
+      "body": "Il torntino di cioccolato con cuore fondente è un dessert facile e veloce che nasconde un cuore morbido, calso e avvolgente...scopri dosi e ricetta!",
+      "img1": "https://www.giallozafferano.it/images/235-23566/Tortino-di-cioccolato-con-cuore-fondente_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Cioccolato fondente al 70%",
+          "quantita": "110g"
+        },
+        {
+          "id": 2,
+          "nome": "Burro a temperatura ambiente",
+          "quantita": "110g"
+        },
+        {
+          "id": 3,
+          "nome": "Uova (2 grandi)",
+          "quantita": "120g"
+        },
+        {
+          "id": 4,
+          "nome": "Zucchero",
+          "quantita": "40g"
+        },
+        {
+          "id": 5,
+          "nome": "Farina 00",
+          "quantita": "25g"
+        }
+      ],
+      "ricetta": "Per realizzare il tortino di cioccolato con cuore fondente per prima cosa sciogliete il cioccolato a bagnomaria insieme al burro, mescolando continuamente. Una volta sciolto, lasciatelo raffreddare fino alla temperatura di 30°. Se non avete un termometro potete lasciarlo a temperatura ambiente per circa 20-25 minuti. Nel frattempo imburrate e infarinate 4 stampini di alluminio. Quando avrà raggiunto i 30°, trasferite il composto di burro e cioccolato in un mixer con lame di acciaio. Mentre il mixer è in funzione unite lo zucchero all’interno e aspettate che sia ben amalgamato, poi versate a filo le uova sbattute. Quando anche le uova saranno state assorbite aggiungete la farina e continuate a frullare per ottenere un composto liscio e omogeneo. Riempite gli stampini con 70 g di composto l’uno, aiutandovi con un sac-à-poche o un cucchiaio; il composto dovrà arrivare a circa due terzi dello stampino. Mettete gli stampini in congelatore per almeno 6 ore, meglio se per una notte intera. Quando i tortini saranno congelati, disponeteli in una teglia e cuocete in forno ventilato preriscaldato a 200° per 7 minuti, sul ripiano medio. Trascorso il tempo di cottura, sformateli delicatamente capovolgendo gli stampini sul piatto, poi spolverizzate con zucchero a velo e servite subito il vostro tortino di cioccolato con cuore fondente!",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 19,
+      "title": "Muffin con goccie di cioccolato",
+      "body": "I muffin con goccie di cioccolato sono dei soffici dolcetti perfetti per fare colazione o merenda, con un gusto delicato e ricco di goloso cioccolato!",
+      "img1": "https://www.giallozafferano.it/images/242-24261/Muffin-con-gocce-di-cioccolato_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Burro (ammorbidito a temperatura dambiente)",
+          "quantita": "125g"
+        },
+        {
+          "id": 2,
+          "nome": "Farina",
+          "quantita": "265g"
+        },
+        {
+          "id": 3,
+          "nome": "Zucchero",
+          "quantita": "135g"
+        },
+        {
+          "id": 4,
+          "nome": "Latte intero (a temperatura ambiente)",
+          "quantita": "135g"
+        },
+        {
+          "id": 5,
+          "nome": "Uova (circa 3 medie, a temperatura ambiente)",
+          "quantita": "110g"
+        },
+        {
+          "id": 6,
+          "nome": "Bicarboanto raso",
+          "quantita": "1 chicchiano"
+        },
+        {
+          "id": 7,
+          "nome": "Bacca di vaniglia",
+          "quantita": "1"
+        },
+        {
+          "id": 8,
+          "nome": "Sale fino",
+          "quantita": "1 pizzico"
+        },
+        {
+          "id": 9,
+          "nome": "Lievito in polvere per dolci",
+          "quantita": "10g"
+        }
+      ],
+      "ricetta": "Per preparare i muffin con gocce di cioccolato il burro va lasciato almeno 1 h fuori dal frigo, per farlo ammorbidire.  Unite al burro morbido lo zucchero, lavorate con le fruste elettriche fino ad ottenere un composto spumoso e cremoso. Dopodiché incidete una bacca di vaniglia e raschiate i semi utilizzando il dorso di un coltello. Versate questi ultimi nella ciotola con burro e zucchero. Azionate nuovamente le fruste e aggiungete le uova, anche queste a temperatura ambiente, una alla volta in questo modo gli ingredienti non si slegheranno. Ora setacciate la farina, il lievito per dolci e il bicarbonato direttamente nella ciotola con il composto. Aggiungete anche il pizzico di sale e azionate nuovamente le fruste per inglobate le polveri. Noterete che l’impasto diventerà più consistente quindi stemperatelo con il latte a temperatura ambiente versato a filo. A questo punto il composto sarà morbido e compatto. Unite 80 g di gocce di cioccolato e mescolate con una spatola per inglobarle dopodiché trasferite il composto in una sàc-a-poche usa e getta senza bocchetta in questo modo potrete effettuare un lavoro più pulito altrimenti utilizzate pure un cucchiaio. Sistemate i pirottini di carta in una pirofila da muffin e riempiteli per 2/3, quindi lasciando meno di un centimetro dalla superficie. Ogni muffin dovrà pesare all’incirca 70 g. Sulle tortine versate le gocce di cioccolato rimanenti e cuocete in forno preriscaldato a 180° per 18-20 minuti in modalità statica. A questo punto i vostri muffin con gocce di cioccolato sono pronti per essere gustati.",
+      "categoria": "Dolci"
+    },
+    {
+      "id": 20,
+      "title": "Crepes alla Nutella",
+      "body": "Come fare una crepes alla Nutella ad arte? Scoprite i segreti per questa tentazione di gustare a merenda, per dessert o come spuntino di mezzanotte.",
+      "img1": "https://www.giallozafferano.it/images/242-24242/Crepe-alla-Nutella_450x300.jpg",
+      "ingredienti": [
+        {
+          "id": 1,
+          "nome": "Uova medie",
+          "quantita": "3"
+        },
+        {
+          "id": 2,
+          "nome": "Farina 00",
+          "quantita": "250g"
+        },
+        {
+          "id": 3,
+          "nome": "Latte intero",
+          "quantita": "500ml"
+        },
+        {
+          "id": 4,
+          "nome": "Burro",
+          "quantita": "40g"
+        }
+      ],
+      "ricetta": "Per preparare le crepe dolci e salate iniziate sciogliendo dolcemente il burro in un pentolino. Lasciatelo intiepidire e nel frattempo rompete le uova in una ciotola dai bordi alti. Mescolate con una frusta e unite il latte. Continuate a mescolare sino ad ottenere un composto omogeneo. Aggiungete ora il burro tiepido e mescolate ancora. Posizionate un colino sul recipiente e poi setacciate la farina nella ciotola, (per comodità potete anche aggiungerla in due tempi e mescolare così da evitare la formazione di grumi). Poi con le fruste mescolate energicamente per assorbire la farina. Continuate a mescolare fino ad ottenere un composto omogeneo, vellutato e privo di grumi. A questo punto coprite la ciotola con della pellicola alimentare e lasciate riposare per almeno 30 minuti in frigorifero. Trascorso il tempo mescolate l’impasto per farlo rinvenire e poi scaldate una crepiera da 18 cm (o in alternativa una padella antiaderente sempre della stessa base) ed ungetela con una noce di burro. Una volta a temperatura versate un mestolo di impasto sufficiente a ricoprire la superficie della padella: potete aiutarvi con l'apposito stendi pastella per crepe oppure ruotare la padella fino a distribuire il composto uniformemente (fate attenzione a non spanderlo tutto sui bordi per evitare che al centro non rimanga pastella sufficiente a creare una crepe dalla superficie uniforme); si consiglia di eseguire queste operazioni molto in fretta, poiché la pastella cuocerà rapidamente. Trascorso circa 1 minuto a fuoco medio-basso, dovreste notare una leggera doratura, i bordi tenderanno a staccarsi perciò potrete girare la prima crepe aiutandovi con una paletta. Cuocete anche l'altro lato per 1 minuto circa, aspettando che prenda colore. Una volta cotta la prima, trasferitela su un piatto da portata o su di un tagliere. Ripetete questa operazione fino a finire l’impasto, ungendo di volta in volta la crepiera, dovreste ottenere così 14 crepe del diametro di 18 cm: impilate ogni crepe una sopra l’altra così resteranno morbide. Utilizzando un cucchiaio trasferite al centro centro di ogni crepe circa 30 g di Nutella, poi con il dorso del cucchiaio spargetela su tutta la superficie. Richiudete ora a metà la crepe in modo da ottenere una mezzaluna. Richiudete ancora a metà, in modo da ottenere un trinagolo. Trasferite su un piatto, spolverizzate con zucchero a velo e servite.",
+      "categoria": "Dolci"
+    }
+  ]
+}
